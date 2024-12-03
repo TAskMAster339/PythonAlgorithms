@@ -18,9 +18,7 @@ class Solution:
                     zero_flag = False
                 else:
                     target += 1
-        print(target)
         return target == 0
-
 
 
 if __name__ == "__main__":
