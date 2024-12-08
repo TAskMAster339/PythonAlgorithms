@@ -15,7 +15,7 @@ class Solution:
             if states >= h:
                 return h
 
-                # [] - 0
+# [] - 0
 # [2] - 1 / [0] = 0
 # [2, 17] = 2 - prev if current >= prev_h and current >= max_h else prev + 1
 # [1, 29, 10] = 2
