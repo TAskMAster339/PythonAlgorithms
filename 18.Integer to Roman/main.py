@@ -1,6 +1,5 @@
 from typing import List
 
-
 class Solution:
     def intToRoman(self, num: int) -> str:
         table = {
@@ -23,6 +22,9 @@ class Solution:
             while num >= i:
                 num -= i
                 result += table[i]
+            # n = num // i
+            # num %= i
+            # result += (table[i] * n)
 
         return result
 
