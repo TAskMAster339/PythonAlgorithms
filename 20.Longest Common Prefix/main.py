@@ -9,8 +9,8 @@ class Solution:
             if len(i) < len(prefix):
                 prefix = i
 
-        for i in range(len(strs)):
-            word = strs[i]
+        for word in range(len(strs)):
+            word = strs[word]
             for i in range(min(len(word), len(prefix))):
                 if word[i] != prefix[i]:
                     prefix = prefix[:i]
