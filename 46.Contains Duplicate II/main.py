@@ -10,9 +10,7 @@ class Solution:
             if nums[i] in table:
                 if i - table[nums[i]] <= k:
                     return True
-                table[nums[i]] = i
-            else:
-                table[nums[i]] = i
+            table[nums[i]] = i
         return False
 
 
