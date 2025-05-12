@@ -6,7 +6,7 @@ class Solution:
         left = 0
         right = 0
         cur_sum = nums[left]
-        min_len = float('inf')
+        min_len = float("inf")
 
         while right != len(nums) - 1 or left != len(nums):
             if cur_sum >= target:
@@ -17,9 +17,9 @@ class Solution:
             else:
                 right += 1
                 if right >= len(nums):
-                    return min_len if min_len != float('inf') else 0
+                    return min_len if min_len != float("inf") else 0
             cur_sum += nums[right]
-        return min_len if min_len != float('inf') else 0
+        return min_len if min_len != float("inf") else 0
 
 
 if __name__ == "__main__":

@@ -1,5 +1,6 @@
 from typing import Optional
 
+
 class ListNode:
     def __init__(self, val=0, next=None):
         self.val = val
@@ -7,7 +8,6 @@ class ListNode:
 
 
 class Solution:
-
     def deleteDuplicates(self, head: Optional[ListNode]) -> Optional[ListNode]:
         start = head
         if not start or start.next is None:

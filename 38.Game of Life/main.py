@@ -6,19 +6,23 @@ class Solution:
         """
         Do not return anything, modify board in-place instead.
         """
-        zero_sign = '*'
-        one_sign = '$'
+        zero_sign = "*"
+        one_sign = "$"
 
         for i in range(len(board)):
             for j in range(len(board[i])):
-
                 count_one = 0
                 for di in range(-1, 2):
                     for dj in range(-1, 2):
-                        if -1 < i + di < len(board) and -1 < j + dj < len(board[i]):
+                        if -1 < i + di < len(board) and -1 < j + dj < len(
+                            board[i]
+                        ):
                             if di == 0 and dj == 0:
                                 continue
-                            if board[i + di][j + dj] == 1 or board[i + di][j + dj] == zero_sign:
+                            if (
+                                board[i + di][j + dj] == 1
+                                or board[i + di][j + dj] == zero_sign
+                            ):
                                 count_one += 1
 
                 if board[i][j] == 1:
@@ -40,19 +44,11 @@ class Solution:
 
 if __name__ == "__main__":
     s = Solution()
-    board1 = [[0, 1, 0],
-              [0, 0, 1],
-              [1, 1, 1],
-              [0, 0, 0]]
+    board1 = [[0, 1, 0], [0, 0, 1], [1, 1, 1], [0, 0, 0]]
     s.gameOfLife(board1)
-    Output1 = [[0, 0, 0],
-               [1, 0, 1],
-               [0, 1, 1],
-               [0, 1, 0]]
+    Output1 = [[0, 0, 0], [1, 0, 1], [0, 1, 1], [0, 1, 0]]
     print(board1)
-    board2 = [[1, 1],
-              [1, 0]]
+    board2 = [[1, 1], [1, 0]]
     s.gameOfLife(board2)
-    Output2 = [[1, 1],
-               [1, 1]]
+    Output2 = [[1, 1], [1, 1]]
     print(board2)

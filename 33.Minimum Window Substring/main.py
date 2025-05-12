@@ -32,7 +32,7 @@ class Solution:
 
                 if end - start < min_window:
                     min_window = end - start
-                    result = s[start: end + 1]
+                    result = s[start:end + 1]
 
                 char_table[s[start]] += 1
                 remaining_chars += 1

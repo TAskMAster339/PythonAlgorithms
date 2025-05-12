@@ -1,3 +1,5 @@
+__all__ = ["timer"]
+
 import time
 import functools
 
@@ -9,4 +11,5 @@ def timer(f):
         result = f(*args, **kwargs)
         print(f"Time: {(time.perf_counter_ns()-start) / (10**9):.7f}s")
         return result
+
     return wrapper

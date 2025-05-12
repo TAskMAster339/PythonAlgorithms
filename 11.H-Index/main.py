@@ -15,6 +15,7 @@ class Solution:
             if states >= h:
                 return h
 
+
 # [] - 0
 # [2] - 1 / [0] = 0
 # [2, 17] = 2 - prev if current >= prev_h and current >= max_h else prev + 1
@@ -30,7 +31,7 @@ class Solution:
 
 if __name__ == "__main__":
     s = Solution()
-    print(s.hIndex([3,0,6,1,5]))
-    print(s.hIndex([1,3,1]))
-    print(s.hIndex([0,1]))
-    print(s.hIndex([11,15]))
+    print(s.hIndex([3, 0, 6, 1, 5]))
+    print(s.hIndex([1, 3, 1]))
+    print(s.hIndex([0, 1]))
+    print(s.hIndex([11, 15]))

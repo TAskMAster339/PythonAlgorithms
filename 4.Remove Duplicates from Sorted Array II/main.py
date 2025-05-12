@@ -15,7 +15,7 @@ class Solution:
                 w = i + 1
                 flag = False
             if w != 0 and count <= 2:
-                nums[w] = nums[i+1]
+                nums[w] = nums[i + 1]
                 w += 1
         if w == 0:
             return len(nums)
@@ -34,7 +34,8 @@ class Solution:
 
         return slow
 
+
 if __name__ == "__main__":
     s = Solution()
-    print(s.removeDuplicates([1,1,1,2,2,3]))
-    print(s.removeDuplicates([0,0,1,1,1,1,2,3,3]))
+    print(s.removeDuplicates([1, 1, 1, 2, 2, 3]))
+    print(s.removeDuplicates([0, 0, 1, 1, 1, 1, 2, 3, 3]))

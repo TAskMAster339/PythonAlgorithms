@@ -1,2 +1,2 @@
-from util.decorators import *
-from util.test import *
+from util.decorators import * # noqa
+from util.test import * # noqa

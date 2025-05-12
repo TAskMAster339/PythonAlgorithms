@@ -56,6 +56,10 @@ class Solution:
 
 if __name__ == "__main__":
     s = Solution().groupAnagrams2
-    test_case(s, [["bat"], ["nat", "tan"], ["ate", "eat", "tea"]], ["eat", "tea", "tan", "ate", "nat", "bat"])
+    test_case(
+        s,
+        [["bat"], ["nat", "tan"], ["ate", "eat", "tea"]],
+        ["eat", "tea", "tan", "ate", "nat", "bat"],
+    )
     test_case(s, [[""]], [""])
     test_case(s, [["a"]], ["a"])

@@ -18,10 +18,6 @@ class Solution:
                     case "*":
                         stack.append(elem1 * elem2)
                     case "/":
-                        # signFlag = True
-                        # if elem1 < 0 < elem2 or elem2 < 0 < elem1:
-                        #     signFlag = False
-                        # stack.append((elem1 // elem2) if signFlag else (-elem1 // elem2))
                         stack.append(int(elem1 / elem2))
             else:
                 stack.append(int(i))
@@ -32,5 +28,9 @@ if __name__ == "__main__":
     f = Solution().evalRPN
     tc(f, 9, tokens=["2", "1", "+", "3", "*"])
     tc(f, 6, tokens=["4", "13", "5", "/", "+"])
-    tc(f, 22, ["10", "6", "9", "3", "+", "-11", "*", "/", "*", "17", "+", "5", "+"])
+    tc(
+        f,
+        22,
+        ["10", "6", "9", "3", "+", "-11", "*", "/", "*", "17", "+", "5", "+"],
+    )
     tc(f, -7, ["4", "-2", "/", "2", "-3", "-", "-"])

@@ -18,8 +18,9 @@ class Solution:
         for pair in result:
             min_height = min(height[pair[0]], height[pair[1]])
             for i in range(pair[0] + 1, pair[1]):
-                water += (min_height - height[i])
+                water += min_height - height[i]
         return water
+
     def trap2(self, height: List[int]) -> int:
         start = 0
         result = 0

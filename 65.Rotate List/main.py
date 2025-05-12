@@ -8,7 +8,9 @@ class ListNode:
 
 
 class Solution:
-    def rotateRight(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
+    def rotateRight(
+        self, head: Optional[ListNode], k: int
+    ) -> Optional[ListNode]:
         end = head
         length = 1
         if not end or not end.next:

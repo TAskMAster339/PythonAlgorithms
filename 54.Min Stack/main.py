@@ -1,5 +1,4 @@
 class MinStackNoMemo:
-
     def __init__(self):
         self.data = []
         self.min = float("inf")
@@ -25,7 +24,6 @@ class MinStackNoMemo:
 
 
 class MinStack:
-
     def __init__(self):
         self.data = []
 

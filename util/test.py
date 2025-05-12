@@ -1,12 +1,16 @@
+__all__ = ["test_case"]
+
 from typing import Callable, Any
 
 
-def test_case(function: Callable, result: Any, *args, **kwargs):
+def test_case(function: Callable, result: Any, *args, **kwargs) -> None:
     call = function(*args, **kwargs)
     if call == result:
         print_green("Test case - OK")
     else:
-        print_red(f'Test case - not OK\n\tOutput: {call}\n\tExpected: {result}')
+        print_red(
+            f"Test case - not OK\n\tOutput: {call}\n\tExpected: {result}"
+        )
 
 
 def print_green(text: str) -> None:

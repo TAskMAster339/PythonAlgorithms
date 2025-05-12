@@ -1,5 +1,4 @@
 from typing import Optional
-from util import test_case
 
 
 class ListNode:
@@ -9,7 +8,9 @@ class ListNode:
 
 
 class Solution:
-    def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
+    def addTwoNumbers(
+        self, l1: Optional[ListNode], l2: Optional[ListNode]
+    ) -> Optional[ListNode]:
         returnList = ListNode(0)
         begin = returnList
         carry = 0

@@ -1,7 +1,6 @@
 from typing import List
 
 
-
 class Solution:
     def canJump(self, nums: List[int]) -> bool:
         if len(nums) == 1:
@@ -23,10 +22,9 @@ class Solution:
 
 if __name__ == "__main__":
     s = Solution()
-    print(s.canJump([2,3,1,1,4]))
-    print(s.canJump([3,2,1,0,4]))
-    print(s.canJump([0,2,3]))
-    print(s.canJump([2,0,1,0,1]))
-    print(s.canJump([3,0,0,0]))
-    print(s.canJump([1,0,0,1,1,2,2,0,2,2]))
-
+    print(s.canJump([2, 3, 1, 1, 4]))
+    print(s.canJump([3, 2, 1, 0, 4]))
+    print(s.canJump([0, 2, 3]))
+    print(s.canJump([2, 0, 1, 0, 1]))
+    print(s.canJump([3, 0, 0, 0]))
+    print(s.canJump([1, 0, 0, 1, 1, 2, 2, 0, 2, 2]))

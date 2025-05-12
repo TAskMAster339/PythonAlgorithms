@@ -3,7 +3,6 @@ from typing import List
 
 class Solution:
     def candy(self, ratings: List[int]) -> int:
-
         candies = [1] * len(ratings)
 
         for i in range(1, len(ratings)):

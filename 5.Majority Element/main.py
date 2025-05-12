@@ -10,7 +10,7 @@ class Solution:
             if count == 0:
                 result = i
 
-            count += (1 if i == result else -1)
+            count += 1 if i == result else -1
 
         return result
 

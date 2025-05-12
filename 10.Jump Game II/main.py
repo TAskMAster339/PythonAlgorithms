@@ -17,7 +17,6 @@ class Solution:
         return jumps
 
     def jump2(self, nums: List[int]) -> int:
-
         n = len(nums)
         if n == 1:
             return 0  # Already at the last index
@@ -27,7 +26,6 @@ class Solution:
         farthest = 0
 
         for i in range(n - 1):  # No need to check the last element
-
             # Update the farthest point reachable from here
             jump = i + nums[i]
             if farthest < jump:
@@ -44,11 +42,12 @@ class Solution:
 
         return jumps
 
+
 if __name__ == "__main__":
     s = Solution()
     print(s.jump2([2, 3, 1, 1, 4]))
     print(s.jump2([2, 3, 0, 1, 4]))
-    print(s.jump([1,2]))
-    print(s.jump([1,2,3]))
+    print(s.jump([1, 2]))
+    print(s.jump([1, 2, 3]))
     print(s.jump([0]))
-    print(s.jump([1,2,1,1,1])) # 3
+    print(s.jump([1, 2, 1, 1, 1]))  # 3

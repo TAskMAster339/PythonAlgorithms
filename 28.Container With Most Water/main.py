@@ -6,7 +6,9 @@ class Solution:
         maxArea = 0
         left, right = 0, len(height) - 1
         while left < right:
-            maxArea = max(maxArea, min(height[left], height[right]) * (right - left))
+            maxArea = max(
+                maxArea, min(height[left], height[right]) * (right - left)
+            )
             if height[left] < height[right]:
                 left += 1
             else:

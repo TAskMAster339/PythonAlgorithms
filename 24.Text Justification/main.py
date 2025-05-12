@@ -26,11 +26,11 @@ class Solution:
         return result
 
     def justify(self, line, width):
-        words = line.split(' ')
+        words = line.split(" ")
         space_num = line.count(" ")
         empty = width - (len(line) - space_num)
         full_spaces = empty // space_num if space_num != 0 else empty
-        spaces_need_to_add = empty % space_num  if space_num != 0 else empty
+        spaces_need_to_add = empty % space_num if space_num != 0 else empty
 
         if len(words) == 1:
             return words[0] + " " * (width - len(words[0]))
@@ -48,9 +48,41 @@ class Solution:
 
 if __name__ == "__main__":
     s = Solution()
-    print(s.fullJustify(["This", "is", "an", "example", "of", "text", "justification."], 16))
-    print(s.fullJustify(["What", "must", "be", "acknowledgment", "shall", "be"], 16))
-    print(s.fullJustify(
-        ["Science", "is", "what", "we", "understand", "well", "enough", "to", "explain", "to", "a", "computer.", "Art",
-         "is", "everything", "else", "we", "do"], 20))
-    print(s.fullJustify(["Listen","to","many,","speak","to","a","few."], 6))
+    print(
+        s.fullJustify(
+            ["This", "is", "an", "example", "of", "text", "justification."], 16
+        )
+    )
+    print(
+        s.fullJustify(
+            ["What", "must", "be", "acknowledgment", "shall", "be"], 16
+        )
+    )
+    print(
+        s.fullJustify(
+            [
+                "Science",
+                "is",
+                "what",
+                "we",
+                "understand",
+                "well",
+                "enough",
+                "to",
+                "explain",
+                "to",
+                "a",
+                "computer.",
+                "Art",
+                "is",
+                "everything",
+                "else",
+                "we",
+                "do",
+            ],
+            20,
+        )
+    )
+    print(
+        s.fullJustify(["Listen", "to", "many,", "speak", "to", "a", "few."], 6)
+    )

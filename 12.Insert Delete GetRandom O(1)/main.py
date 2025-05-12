@@ -2,7 +2,6 @@ import random
 
 
 class RandomizedSet:
-
     def __init__(self):
         self.lst = []
         self.idx_map = {}
@@ -31,6 +30,7 @@ class RandomizedSet:
 
     def getRandom(self):
         return random.choice(self.lst)
+
 
 # Your RandomizedSet object will be instantiated and called as such:
 # obj = RandomizedSet()

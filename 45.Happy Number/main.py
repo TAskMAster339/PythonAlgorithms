@@ -1,4 +1,4 @@
-from util import test_case
+from util.test import test_case
 
 
 class Solution:

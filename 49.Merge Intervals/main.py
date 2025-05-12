@@ -3,7 +3,6 @@ from util import test_case
 
 
 class Solution:
-
     def merge(self, intervals: List[List[int]]) -> List[List[int]]:  # so bad
         intervals.sort(key=lambda arr: arr[0])
         left = 0
@@ -35,7 +34,9 @@ class Solution:
 
 if __name__ == "__main__":
     f = Solution().merge
-    test_case(f, [[1, 6], [8, 10], [15, 18]], [[1, 3], [2, 6], [8, 10], [15, 18]])
+    test_case(
+        f, [[1, 6], [8, 10], [15, 18]], [[1, 3], [2, 6], [8, 10], [15, 18]]
+    )
     test_case(f, [[1, 5]], [[1, 4], [4, 5]])
     test_case(f, [[1, 3]], [[1, 3]])
     test_case(f, [[1, 4], [5, 6]], [[1, 4], [5, 6]])

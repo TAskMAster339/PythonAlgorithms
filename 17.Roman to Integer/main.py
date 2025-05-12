@@ -1,4 +1,3 @@
-from typing import List
 
 
 class Solution:
@@ -10,14 +9,14 @@ class Solution:
             "L": 50,
             "C": 100,
             "D": 500,
-            "M": 1000
+            "M": 1000,
         }
         prev = s[0]
         result = table[s[0]]
         for i in range(1, len(s)):
             if table[s[i]] > table[prev]:
                 #    result -= table[prev]
-                result += (table[s[i]] - 2 * table[prev])
+                result += table[s[i]] - 2 * table[prev]
             else:
                 result += table[s[i]]
             prev = s[i]

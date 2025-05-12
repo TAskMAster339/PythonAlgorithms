@@ -45,7 +45,20 @@ class Solution:
 if __name__ == "__main__":
     s = Solution()
     print(s.findSubstring("barfoothefoobarman", ["foo", "bar"]))
-    print(s.findSubstring("wordgoodgoodgoodbestword", ["word", "good", "best", "word"]))
+    print(
+        s.findSubstring(
+            "wordgoodgoodgoodbestword", ["word", "good", "best", "word"]
+        )
+    )
     print(s.findSubstring("barfoofoobarthefoobarman", ["bar", "foo", "the"]))
-    print(s.findSubstring("wordgoodgoodgoodbestword", ["word", "good", "best", "good"]))
-    print(s.findSubstring("lingmindraboofooowingdingbarrwingmonkeypoundcake", ["fooo", "barr", "wing", "ding", "wing"]))
+    print(
+        s.findSubstring(
+            "wordgoodgoodgoodbestword", ["word", "good", "best", "good"]
+        )
+    )
+    print(
+        s.findSubstring(
+            "lingmindraboofooowingdingbarrwingmonkeypoundcake",
+            ["fooo", "barr", "wing", "ding", "wing"],
+        )
+    )
