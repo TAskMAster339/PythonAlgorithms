@@ -1,4 +1,4 @@
-from typing import List, Optional
+from typing import Optional
 
 
 class TreeNode:
@@ -11,44 +11,46 @@ class TreeNode:
 class Solution:
     def buildTree1(
         self,
-        preorder: List[int],
-        inorder: List[int],
+        preorder: list[int],
+        inorder: list[int],
     ) -> Optional[TreeNode]:
         return self.build1(preorder, inorder)
 
     def build(
         self,
-        preorder: List[int],
-        inorder: List[int]
+        preorder: list[int],
+        inorder: list[int],
     ) -> Optional[TreeNode]:
         if inorder:
             indx = inorder.index(preorder.pop(0))
             root = TreeNode(inorder[indx])
 
             root.left = self.build(preorder, inorder[:indx])
-            root.right = self.build(preorder, inorder[indx+1:])
+            root.right = self.build(preorder, inorder[indx + 1 :])
 
             return root
 
+        return None
+
     def buildTree2(
         self,
-        preorder: List[int],
-        inorder: List[int],
+        preorder: list[int],
+        inorder: list[int],
     ) -> Optional[TreeNode]:
-        map = {}
+        mapping = {}
 
         for i in range(len(inorder)):
-            map[inorder[i]] = i
+            mapping[inorder[i]] = i
 
         def build(start: int, end: int) -> Optional[TreeNode]:
             if start > end:
                 return None
 
-            mid = map[preorder.pop(0)]
+            mid = mapping[preorder.pop(0)]
             root = TreeNode(inorder[mid])
 
             root.left = build(start, mid - 1)
-            root.right = build(mid+1, end)
+            root.right = build(mid + 1, end)
 
             return root
 

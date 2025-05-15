@@ -16,7 +16,9 @@ class Solution:
         return self.checkSymmetryOfSubTree(root.left, root.right)
 
     def checkSymmetryOfSubTree(
-        self, left_node: Optional[TreeNode], right_node: Optional[TreeNode]
+        self,
+        left_node: Optional[TreeNode],
+        right_node: Optional[TreeNode],
     ) -> bool:
         if not left_node and not right_node:
             return True

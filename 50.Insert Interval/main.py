@@ -1,10 +1,13 @@
 from typing import List
+
 from util import test_case
 
 
 class Solution:
     def insert(
-        self, intervals: List[List[int]], newInterval: List[int]
+        self,
+        intervals: List[List[int]],
+        newInterval: List[int],
     ) -> List[List[int]]:
         result = []
         i = 0
@@ -31,7 +34,10 @@ class Solution:
 if __name__ == "__main__":
     f = Solution().insert
     test_case(
-        f, [[1, 5], [6, 9]], intervals=[[1, 3], [6, 9]], newInterval=[2, 5]
+        f,
+        [[1, 5], [6, 9]],
+        intervals=[[1, 3], [6, 9]],
+        newInterval=[2, 5],
     )
     test_case(
         f,

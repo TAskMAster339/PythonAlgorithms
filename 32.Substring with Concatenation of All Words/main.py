@@ -18,7 +18,7 @@ class Solution:
             count = 0
             window = dict()
             for j in range(i, len(s) - word_len + 1, word_len):
-                word = s[j:j + word_len]
+                word = s[j : j + word_len]
                 if word not in words:
                     start = j + word_len
                     window.clear()
@@ -33,7 +33,7 @@ class Solution:
                     window[word] = 1
 
                 while window[word] > etalon[word]:
-                    window[s[start:start + word_len]] -= 1
+                    window[s[start : start + word_len]] -= 1
                     start += word_len
                     count -= 1
 
@@ -47,18 +47,20 @@ if __name__ == "__main__":
     print(s.findSubstring("barfoothefoobarman", ["foo", "bar"]))
     print(
         s.findSubstring(
-            "wordgoodgoodgoodbestword", ["word", "good", "best", "word"]
-        )
+            "wordgoodgoodgoodbestword",
+            ["word", "good", "best", "word"],
+        ),
     )
     print(s.findSubstring("barfoofoobarthefoobarman", ["bar", "foo", "the"]))
     print(
         s.findSubstring(
-            "wordgoodgoodgoodbestword", ["word", "good", "best", "good"]
-        )
+            "wordgoodgoodgoodbestword",
+            ["word", "good", "best", "good"],
+        ),
     )
     print(
         s.findSubstring(
             "lingmindraboofooowingdingbarrwingmonkeypoundcake",
             ["fooo", "barr", "wing", "ding", "wing"],
-        )
+        ),
     )

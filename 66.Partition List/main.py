@@ -9,7 +9,9 @@ class ListNode:
 
 class Solution:
     def partition(
-        self, head: Optional[ListNode], x: int
+        self,
+        head: Optional[ListNode],
+        x: int,
     ) -> Optional[ListNode]:
         less = ListNode()
         more = ListNode()
