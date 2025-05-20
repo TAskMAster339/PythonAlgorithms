@@ -1,4 +1,4 @@
-72) Construct Binary Tree from Inorder and Postorder Traversal
+73) Construct Binary Tree from Inorder and Postorder Traversal
 https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/
 Условие:
 Даны два массива целых чисел inorder и postorder, где postorder это обратный обход бинарного дерева (LRN left-right-node), а inorder это центрированный обход дерева (LNR left-node-right). Это обходы одного и того же дерева, нужно сконструировать его и вернуть
