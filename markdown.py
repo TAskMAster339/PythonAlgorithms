@@ -60,15 +60,17 @@ if __name__ == "__main__":
     args = parser.parse_args()
     try:
         dir_path = get_path_from_regex(args.regex_path)
-
-        with Path.open(
-            dir_path / FILE_INPUT_NAME,
-            "r",
-            encoding="UTF-8",
-        ) as file:
-            file_lines = file.readlines()
-            for i in range(len(file_lines)):
-                file_lines[i] = file_lines[i].removesuffix("\n")
+        try:
+            with Path.open(
+                dir_path / FILE_INPUT_NAME,
+                "r",
+                encoding="UTF-8",
+            ) as file:
+                file_lines = file.readlines()
+                for i in range(len(file_lines)):
+                    file_lines[i] = file_lines[i].removesuffix("\n")
+        except FileNotFoundError:
+            print(f"file {dir_path / FILE_INPUT_NAME} not found")
 
         format_file(file_lines)
 
