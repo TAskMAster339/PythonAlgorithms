@@ -1,5 +1,6 @@
-**75) Flatten Binary Tree to Linked List (https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)**
-Условие:
+**75) Flatten Binary Tree to Linked List**
+https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/
+**Условие:**
 Дан корень **root** бинарного дерева, нужно разгладить его в связный список. Связный список должен использовать тот же **TreeNode** класс, где правый ребенок **right** будет указывать на следующий элемент в списке, в то время как **left** всегда будет **None**. Порядок элементов в списке должен быть такой же как при прямом обходе дерева (**NLR**)
 **Идея:**
 Всё что нужно сделать - поменять ссылки

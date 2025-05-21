@@ -12,6 +12,9 @@ ENGLISH_WORD_PATTERN = re.compile(r"[a-zA-Z0-9]+")
 
 BLOCK_WORDS = ("Условие:", "Идея:", "Реализация:", "Оценка:")
 
+FILE_INPUT_NAME = "text.txt"
+FILE_OUTPUT_NAME = "README.md"  # for github
+
 
 def bold_english_words(string: str) -> str:
     words = WORDS_PATTERN.findall(string)
@@ -51,7 +54,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument(
     "regex_path",
     type=str,
-    help="Directory with text.txt to parse regex path",
+    help=f"Directory with {FILE_INPUT_NAME} to parse regex path",
 )
 if __name__ == "__main__":
     args = parser.parse_args()
@@ -59,7 +62,7 @@ if __name__ == "__main__":
         dir_path = get_path_from_regex(args.regex_path)
 
         with Path.open(
-            dir_path / "text.txt",
+            dir_path / FILE_INPUT_NAME,
             "r",
             encoding="UTF-8",
         ) as file:
@@ -70,13 +73,15 @@ if __name__ == "__main__":
         format_file(file_lines)
 
         with Path.open(
-            dir_path / "text_formatted.md",
+            dir_path / FILE_OUTPUT_NAME,
             "w",
             encoding="UTF-8",
         ) as file:
             lines = [line + "\n" for line in file_lines]
             file.writelines(lines)
 
-        print(f"Created text_formatted.md in {dir_path}")
+        print(f"Created {FILE_OUTPUT_NAME} in {dir_path}")
     except FileNotFoundError:
         print("Directory not found")
+    except Exception as e:
+        print(e)
