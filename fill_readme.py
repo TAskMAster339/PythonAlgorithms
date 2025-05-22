@@ -1,5 +1,6 @@
 #!/usr/bin/env -S uv run --script
 
+import math
 import re
 from pathlib import Path
 
@@ -8,6 +9,22 @@ questions_names = []
 QUESTION_PATTERN = re.compile(r"\d+")
 GITHUB_PATH = "https://github.com/TAskMAster339/PythonAlgorithms/tree/main/"
 ROOT_DIR = Path(__file__).resolve().parent
+TOTAL_QUESTIONS = 150
+
+
+def generate_progress_bar(
+    current: int,
+    total: int,
+    bar_length: int = 40,
+) -> str:
+    percent = current / total
+    filled = math.floor(bar_length * percent)
+    bar = "█" * filled + "-" * (bar_length - filled)
+
+    percent_str = f"{percent:.0%}".rjust(4)
+    return f"Прогресс: [{bar}] {percent_str}\n"
+
+
 try:
     for path in Path.iterdir(ROOT_DIR):
         if path.is_dir() and QUESTION_PATTERN.match(path.name):
@@ -22,8 +39,9 @@ try:
         )
         file.write(
             ">[!TIP]\n>Вот [тут](https://t.me/TAskMAster3399) "
-            "я поясняю за решение\n",
+            "я поясняю за решение\n\n",
         )
+        file.write(generate_progress_bar(len(questions_names), 150))
         file.write("\n## Список задач:\n\n")
         for line in questions_names:
             number, name = line.split(".")

@@ -3,6 +3,8 @@
 >[!TIP]
 >Вот [тут](https://t.me/TAskMAster3399) я поясняю за решение
 
+Прогресс: [████████████████████--------------------]  51%
+
 ## Список задач:
 
 1. [Merge Sorted Array](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/1.Merge%20Sorted%20Array)
