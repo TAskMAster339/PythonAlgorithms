@@ -19,7 +19,7 @@ def generate_progress_bar(
 ) -> str:
     percent = current / total
     filled = math.floor(bar_length * percent)
-    bar = "█" * filled + "-" * (bar_length - filled)
+    bar = "█" * filled + "░" * (bar_length - filled)
 
     percent_str = f"{percent:.0%}".rjust(4)
     return f"Прогресс: [{bar}] {percent_str}\n"
