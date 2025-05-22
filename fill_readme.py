@@ -31,5 +31,6 @@ try:
             file.write(
                 f"{number}. [{name}]({path})\n\n",
             )
+    print("README.md updated successfuly")
 except Exception as e:
     print(e)
