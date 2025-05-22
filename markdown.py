@@ -15,8 +15,7 @@ ENGLISH_WORD_PATTERN = re.compile(r"[a-zA-Z0-9]+")
 BLOCK_WORDS = ("Условие:", "Идея:", "Реализация:", "Оценка:")
 
 FILE_INPUT_NAME = "text.txt"
-FILE_OUTPUT_NAME = "README.md"  # for github
-GITHUB_FLAG = False
+FILE_OUTPUT_NAME = "tg.md"
 
 
 def parse_bool_from_str(string: str) -> bool:
@@ -51,6 +50,15 @@ def format_file(file_lines: list[str]) -> None:
             file_lines[i] = bold_english_words(line)
 
 
+def format_file_for_git(file_lines: list[str]) -> None:
+    for i in range(len(file_lines)):
+        file_lines[i] = file_lines[i].strip()
+        if file_lines[i].strip("*") in BLOCK_WORDS:
+            file_lines[i] = f"## {file_lines[i]}"
+    link = file_lines.pop(1)
+    file_lines[0] = f"# [{file_lines[0]}]({link})"
+
+
 def get_path_from_regex(path_regex: str) -> Path:
     dir_pattern = re.compile(path_regex)
     parent_dir = Path(__file__).resolve().parent
@@ -66,14 +74,8 @@ parser.add_argument(
     type=str,
     help=f"Directory with {FILE_INPUT_NAME} to parse regex path",
 )
-parser.add_argument(
-    "-g",
-    type=str,
-    help="Use formatting for git",
-)
 if __name__ == "__main__":
     args = parser.parse_args()
-    GITHUB_FLAG = parse_bool_from_str(args.g)
     try:
         dir_path = get_path_from_regex(args.regex_path)
         try:
@@ -95,13 +97,23 @@ if __name__ == "__main__":
             "w",
             encoding="UTF-8",
         ) as file:
-            if GITHUB_FLAG:
-                lines = [line + "\n\n" for line in file_lines]
-            else:
-                lines = [line + "\n" for line in file_lines]
+            lines = [line + "\n" for line in file_lines]
             file.writelines(lines)
 
         print(f"Created {FILE_OUTPUT_NAME} in {dir_path}")
+
+        format_file_for_git(file_lines)
+
+        with Path.open(
+            dir_path / "README.md",
+            "w",
+            encoding="UTF-8",
+        ) as file:
+            lines = [line + "\n\n" for line in file_lines]
+            file.writelines(lines)
+
+        print(f"Created README.md in {dir_path}")
+
     except FileNotFoundError:
         print("Directory not found")
     except Exception as e:
