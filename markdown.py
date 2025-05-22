@@ -16,6 +16,14 @@ BLOCK_WORDS = ("Условие:", "Идея:", "Реализация:", "Оце�
 
 FILE_INPUT_NAME = "text.txt"
 FILE_OUTPUT_NAME = "README.md"  # for github
+GITHUB_FLAG = False
+
+
+def parse_bool_from_str(string: str) -> bool:
+    if not string:
+        return False
+    bools = ("true", "t", "1", "y", "yes")
+    return string.lower() in bools
 
 
 def bold_english_words(string: str) -> str:
@@ -58,8 +66,14 @@ parser.add_argument(
     type=str,
     help=f"Directory with {FILE_INPUT_NAME} to parse regex path",
 )
+parser.add_argument(
+    "-g",
+    type=str,
+    help="Use formatting for git",
+)
 if __name__ == "__main__":
     args = parser.parse_args()
+    GITHUB_FLAG = parse_bool_from_str(args.g)
     try:
         dir_path = get_path_from_regex(args.regex_path)
         try:
@@ -81,7 +95,10 @@ if __name__ == "__main__":
             "w",
             encoding="UTF-8",
         ) as file:
-            lines = [line + "\n" for line in file_lines]
+            if GITHUB_FLAG:
+                lines = [line + "\n\n" for line in file_lines]
+            else:
+                lines = [line + "\n" for line in file_lines]
             file.writelines(lines)
 
         print(f"Created {FILE_OUTPUT_NAME} in {dir_path}")
