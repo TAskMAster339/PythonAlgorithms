@@ -128,7 +128,6 @@ if __name__ == "__main__":
             file.writelines([line + "\n\n" for line in file_lines])
 
             file.writelines([line + "\n" for line in code_lines])
-            print(code_lines)
 
         print(f"Created README.md in {dir_path}")
 
