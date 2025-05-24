@@ -3,7 +3,7 @@
 >[!TIP]
 >Вот [тут](https://t.me/TAskMAster3399) я поясняю за решение
 
-Прогресс: [████████████████████░░░░░░░░░░░░░░░░░░░░]  52%
+Прогресс: [█████████████████████░░░░░░░░░░░░░░░░░░░]  53%
 
 ## Список задач:
 
@@ -162,4 +162,6 @@
 77. [Sum Root to Leaf Numbers](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/77.Sum%20Root%20to%20Leaf%20Numbers)
 
 78. [Binary Tree Maximum Path Sum](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/78.Binary%20Tree%20Maximum%20Path%20Sum)
+
+79. [Binary Search Tree Iterator](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/79.Binary%20Search%20Tree%20Iterator)
 
