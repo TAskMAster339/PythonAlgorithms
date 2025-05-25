@@ -7,17 +7,19 @@ from pathlib import Path
 file_lines = []
 code_lines = []
 
+QUESTION_PATTERN = re.compile(r"\d+")
 HEADER_PATTERN = re.compile(r"\d+\) \w+")
-
 WORDS_PATTERN = re.compile(r"\w+|\W+")
-
 ENGLISH_WORD_PATTERN = re.compile(r"[a-zA-Z0-9]+")
 
-BLOCK_WORDS = ("Условие:", "Идея:", "Реализация:", "Оценка:")
+GITHUB_PATH = "https://github.com/TAskMAster339/PythonAlgorithms/tree/main/"
+ROOT_DIR = Path(__file__).resolve().parent
 
+FILE_OUTPUT_NAME = "tg.md"
 CODE_FILE_NAME = "main.py"
 FILE_INPUT_NAME = "text.txt"
-FILE_OUTPUT_NAME = "tg.md"
+
+BLOCK_WORDS = ("Условие:", "Идея:", "Реализация:", "Оценка:")
 
 
 def parse_bool_from_str(string: str) -> bool:
@@ -75,6 +77,44 @@ def format_file_for_git(file_lines: list[str], code_lines: list[str]) -> None:
         print("e")
 
 
+def get_link_to_next_and_prev_questions(dir_path: Path) -> str:
+    string = ""
+    next_question = prev_question = ""
+    number, _ = dir_path.name.split(".")
+    for path in Path.iterdir(ROOT_DIR):
+        if path.is_dir() and QUESTION_PATTERN.match(path.name):
+            num, name = path.name.split(".")
+            if int(number) + 1 == int(num):
+                next_question = (
+                    f"[следующая задача -->]"
+                    f"({GITHUB_PATH + path.name.replace(' ', '%20')})\n"
+                )
+            if int(number) - 1 == int(num):
+                prev_question = (
+                    f"### [<-- предыдущая задача]"
+                    f"({GITHUB_PATH + path.name.replace(' ', '%20')})"
+                )
+    if not prev_question:
+        string = "### " + next_question
+    elif not next_question:
+        string = prev_question
+    else:
+        string = prev_question + " | " + next_question
+    if string:
+        return string
+    return ""
+
+
+def get_prev_dir(dir_path: Path) -> Path | None:
+    number, _ = dir_path.name.split(".")
+    for path in Path.iterdir(ROOT_DIR):
+        if path.is_dir() and QUESTION_PATTERN.match(path.name):
+            num, name = path.name.split(".")
+            if int(number) - 1 == int(num):
+                return path
+    return None
+
+
 def get_path_from_regex(path_regex: str) -> Path:
     dir_pattern = re.compile(path_regex)
     parent_dir = Path(__file__).resolve().parent
@@ -93,6 +133,7 @@ parser.add_argument(
 if __name__ == "__main__":
     args = parser.parse_args()
     try:
+        # read data from txt file
         dir_path = get_path_from_regex(args.regex_path)
         try:
             with Path.open(
@@ -105,7 +146,7 @@ if __name__ == "__main__":
                     file_lines[i] = file_lines[i].removesuffix("\n")
         except FileNotFoundError:
             print(f"file {dir_path / FILE_INPUT_NAME} not found")
-
+        # create md file for tg post
         format_file(file_lines)
 
         with Path.open(
@@ -117,7 +158,7 @@ if __name__ == "__main__":
             file.writelines(lines)
 
         print(f"Created {FILE_OUTPUT_NAME} in {dir_path}")
-
+        # create README.md for github
         format_file_for_git(file_lines, code_lines)
 
         with Path.open(
@@ -128,8 +169,34 @@ if __name__ == "__main__":
             file.writelines([line + "\n\n" for line in file_lines])
 
             file.writelines([line + "\n" for line in code_lines])
+            file.write(get_link_to_next_and_prev_questions(dir_path))
 
         print(f"Created README.md in {dir_path}")
+
+        # updat next link in previus README.md question
+        prev_dir_path = get_prev_dir(dir_path)
+        try:
+            with Path.open(
+                prev_dir_path / "README.md",
+                "r",
+                encoding="UTF-8",
+            ) as file:
+                file_lines = file.readlines()
+
+            with Path.open(
+                prev_dir_path / "README.md",
+                "w",
+                encoding="UTF-8",
+            ) as file:
+                if "следующая задача" not in file_lines[-1]:
+                    file_lines[-1] = get_link_to_next_and_prev_questions(
+                        prev_dir_path,
+                    )
+                    file.writelines(file_lines)
+
+            print(f"Updated README.md in {prev_dir_path}")
+        except FileNotFoundError as e:
+            print(e)
 
     except FileNotFoundError:
         print("Directory not found")
