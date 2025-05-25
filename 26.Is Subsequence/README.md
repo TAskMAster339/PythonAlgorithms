@@ -1,4 +1,6 @@
-# [**26) Is Subsequence**](https://leetcode.com/problems/is-subsequence/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/is-subsequence/description/'><strong>26) Is Subsequence</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -49,4 +51,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/25.Valid%20Palindrome) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/27.Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/25.Valid%20Palindrome'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/27.Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted'>следующая задача ➡️</a></h3></div>

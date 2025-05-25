@@ -1,4 +1,6 @@
-# [**70) Invert Binary Tree**](https://leetcode.com/problems/invert-binary-tree/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/invert-binary-tree/description/'><strong>70) Invert Binary Tree</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -46,4 +48,4 @@ class Solution:
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/69.Same%20Tree) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/71.Symmetric%20Tree)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/69.Same%20Tree'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/71.Symmetric%20Tree'>следующая задача ➡️</a></h3></div>

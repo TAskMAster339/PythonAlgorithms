@@ -1,4 +1,6 @@
-# [**54) Min Stack**](https://leetcode.com/problems/min-stack/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/min-stack/description/'><strong>54) Min Stack</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -87,4 +89,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/53.Simplify%20Path) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/55.Evaluate%20Reverse%20Polish%20Notation)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/53.Simplify%20Path'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/55.Evaluate%20Reverse%20Polish%20Notation'>следующая задача ➡️</a></h3></div>

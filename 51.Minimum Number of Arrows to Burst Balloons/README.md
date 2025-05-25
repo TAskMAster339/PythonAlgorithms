@@ -1,4 +1,6 @@
-# [**51) Minimum Number of Arrows to Burst Balloons**](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/'><strong>51) Minimum Number of Arrows to Burst Balloons</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -87,4 +89,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/50.Insert%20Interval) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/52.Valid%20Parentheses)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/50.Insert%20Interval'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/52.Valid%20Parentheses'>следующая задача ➡️</a></h3></div>

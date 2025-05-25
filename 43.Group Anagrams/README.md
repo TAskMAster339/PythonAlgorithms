@@ -1,4 +1,6 @@
-# [**43) Group Anagrams**](https://leetcode.com/problems/group-anagrams/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/group-anagrams/description/'><strong>43) Group Anagrams</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -88,4 +90,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/42.Valid%20Anagram) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/44.Two%20Sum)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/42.Valid%20Anagram'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/44.Two%20Sum'>следующая задача ➡️</a></h3></div>

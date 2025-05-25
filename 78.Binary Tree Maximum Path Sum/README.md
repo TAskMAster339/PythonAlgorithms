@@ -1,4 +1,6 @@
-# [**78) Binary Tree Maximum Path Sum**](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/binary-tree-maximum-path-sum/description/'><strong>78) Binary Tree Maximum Path Sum</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -68,4 +70,4 @@ class Solution:
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/77.Sum%20Root%20to%20Leaf%20Numbers) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/79.Binary%20Search%20Tree%20Iterator)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/77.Sum%20Root%20to%20Leaf%20Numbers'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/79.Binary%20Search%20Tree%20Iterator'>следующая задача ➡️</a></h3></div>

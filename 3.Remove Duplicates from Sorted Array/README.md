@@ -1,4 +1,6 @@
-# [**3) Remove Duplicates from Sorted Array**](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/'><strong>3) Remove Duplicates from Sorted Array</strong></a></h1>
+</div>
 
 Идея: Делаем один проход по массиву, сравнивая пары.
 
@@ -28,4 +30,4 @@ class Solution:
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/2.Remove%20Element) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/4.Remove%20Duplicates%20from%20Sorted%20Array%20II)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/2.Remove%20Element'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/4.Remove%20Duplicates%20from%20Sorted%20Array%20II'>следующая задача ➡️</a></h3></div>

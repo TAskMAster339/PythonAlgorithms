@@ -1,4 +1,6 @@
-# [**23) Find the Index of the First Occurrence in a String**](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/'><strong>23) Find the Index of the First Occurrence in a String</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -32,4 +34,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/22.Zigzag%20Conversion) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/24.Text%20Justification)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/22.Zigzag%20Conversion'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/24.Text%20Justification'>следующая задача ➡️</a></h3></div>

@@ -1,4 +1,6 @@
-# [**37) Set Matrix Zeroes**](https://leetcode.com/problems/set-matrix-zeroes/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/set-matrix-zeroes/description/'><strong>37) Set Matrix Zeroes</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -60,4 +62,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/36.Rotate%20Image) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/38.Game%20of%20Life)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/36.Rotate%20Image'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/38.Game%20of%20Life'>следующая задача ➡️</a></h3></div>

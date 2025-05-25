@@ -1,4 +1,6 @@
-# [**28) Container With Most Water**](https://leetcode.com/problems/container-with-most-water/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/container-with-most-water/description/'><strong>28) Container With Most Water</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -51,4 +53,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/27.Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/29.3Sum)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/27.Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/29.3Sum'>следующая задача ➡️</a></h3></div>

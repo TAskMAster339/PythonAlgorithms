@@ -1,4 +1,6 @@
-# [**65) Rotate List**](https://leetcode.com/problems/rotate-list/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/rotate-list/description/'><strong>65) Rotate List</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -72,4 +74,4 @@ class Solution:
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/64.Remove%20Duplicates%20from%20Sorted%20List%20II) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/66.Partition%20List)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/64.Remove%20Duplicates%20from%20Sorted%20List%20II'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/66.Partition%20List'>следующая задача ➡️</a></h3></div>

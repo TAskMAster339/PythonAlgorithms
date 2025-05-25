@@ -1,4 +1,6 @@
-# [**67) LRU Cache**](https://leetcode.com/problems/lru-cache/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/lru-cache/description/'><strong>67) LRU Cache</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -96,4 +98,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/66.Partition%20List) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/68.Maximum%20Depth%20of%20Binary%20Tree)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/66.Partition%20List'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/68.Maximum%20Depth%20of%20Binary%20Tree'>следующая задача ➡️</a></h3></div>

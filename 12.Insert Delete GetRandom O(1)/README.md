@@ -1,4 +1,6 @@
-# [**12) Insert Delete GetRandom O(1)**](https://leetcode.com/problems/insert-delete-getrandom-o1/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/insert-delete-getrandom-o1/description/'><strong>12) Insert Delete GetRandom O(1)</strong></a></h1>
+</div>
 
 Вообще не выкупил в чем тут задача.
 
@@ -65,4 +67,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/11.H-Index) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/13.Product%20of%20Array%20Except%20Self)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/11.H-Index'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/13.Product%20of%20Array%20Except%20Self'>следующая задача ➡️</a></h3></div>

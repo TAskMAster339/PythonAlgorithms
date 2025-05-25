@@ -1,4 +1,6 @@
-# [**62) Reverse Nodes in k-Group**](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/reverse-nodes-in-k-group/description/'><strong>62) Reverse Nodes in k-Group</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -56,4 +58,4 @@ class Solution:
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/61.Reverse%20Linked%20List%20II) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/63.Remove%20Nth%20Node%20From%20End%20of%20List)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/61.Reverse%20Linked%20List%20II'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/63.Remove%20Nth%20Node%20From%20End%20of%20List'>следующая задача ➡️</a></h3></div>

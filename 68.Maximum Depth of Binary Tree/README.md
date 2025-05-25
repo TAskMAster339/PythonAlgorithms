@@ -1,4 +1,6 @@
-# [**68) Maximum Depth of Binary Tree**](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/maximum-depth-of-binary-tree/description/'><strong>68) Maximum Depth of Binary Tree</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -53,4 +55,4 @@ class Solution:
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/67.LRU%20Cache) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/69.Same%20Tree)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/67.LRU%20Cache'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/69.Same%20Tree'>следующая задача ➡️</a></h3></div>

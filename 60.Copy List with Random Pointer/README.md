@@ -1,4 +1,6 @@
-# [**60) Copy List with Random Pointer**](https://leetcode.com/problems/copy-list-with-random-pointer/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/copy-list-with-random-pointer/description/'><strong>60) Copy List with Random Pointer</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -71,4 +73,4 @@ class Solution:
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/59.Merge%20Two%20Sorted%20Lists) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/61.Reverse%20Linked%20List%20II)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/59.Merge%20Two%20Sorted%20Lists'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/61.Reverse%20Linked%20List%20II'>следующая задача ➡️</a></h3></div>

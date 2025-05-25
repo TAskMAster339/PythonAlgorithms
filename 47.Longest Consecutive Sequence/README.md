@@ -1,4 +1,6 @@
-# [**47) Longest Consecutive Sequence**](https://leetcode.com/problems/longest-consecutive-sequence/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/longest-consecutive-sequence/description/'><strong>47) Longest Consecutive Sequence</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -46,4 +48,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/46.Contains%20Duplicate%20II) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/48.Summary%20Ranges)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/46.Contains%20Duplicate%20II'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/48.Summary%20Ranges'>следующая задача ➡️</a></h3></div>

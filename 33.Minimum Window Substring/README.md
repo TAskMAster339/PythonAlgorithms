@@ -1,4 +1,6 @@
-# [**33) Minimum Window Substring**](https://leetcode.com/problems/minimum-window-substring/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/minimum-window-substring/description/'><strong>33) Minimum Window Substring</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -79,4 +81,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/32.Substring%20with%20Concatenation%20of%20All%20Words) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/34.Valid%20Sudoku)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/32.Substring%20with%20Concatenation%20of%20All%20Words'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/34.Valid%20Sudoku'>следующая задача ➡️</a></h3></div>

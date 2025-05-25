@@ -1,4 +1,6 @@
-# [**45) Happy Number**](https://leetcode.com/problems/happy-number/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/happy-number/description/'><strong>45) Happy Number</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -60,4 +62,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/44.Two%20Sum) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/46.Contains%20Duplicate%20II)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/44.Two%20Sum'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/46.Contains%20Duplicate%20II'>следующая задача ➡️</a></h3></div>

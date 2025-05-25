@@ -1,4 +1,6 @@
-# [**17) Roman to Integer**](https://leetcode.com/problems/roman-to-integer/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/roman-to-integer/description/'><strong>17) Roman to Integer</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -55,4 +57,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/16.Trapping%20Rain%20Water) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/18.Integer%20to%20Roman)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/16.Trapping%20Rain%20Water'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/18.Integer%20to%20Roman'>следующая задача ➡️</a></h3></div>

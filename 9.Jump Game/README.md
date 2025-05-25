@@ -1,4 +1,6 @@
-# [**9) Jump Game**](https://leetcode.com/problems/jump-game/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/jump-game/description/'><strong>9) Jump Game</strong></a></h1>
+</div>
 
 Идея: заметим, что единственный случай, когда мы не можем дойти от начала до конца, это когда мы упираемся в непроходимый **0**.
 
@@ -47,4 +49,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/8.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/10.Jump%20Game%20II)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/8.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/10.Jump%20Game%20II'>следующая задача ➡️</a></h3></div>

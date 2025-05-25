@@ -1,4 +1,6 @@
-# [**13) Product of Array Except Self**](https://leetcode.com/problems/product-of-array-except-self/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/product-of-array-except-self/description/'><strong>13) Product of Array Except Self</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -50,4 +52,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/12.Insert%20Delete%20GetRandom%20O(1)) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/14.Gas%20Station)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/12.Insert%20Delete%20GetRandom%20O(1)'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/14.Gas%20Station'>следующая задача ➡️</a></h3></div>

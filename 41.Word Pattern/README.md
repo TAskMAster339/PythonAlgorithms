@@ -1,4 +1,6 @@
-# [**41) Word Pattern**](https://leetcode.com/problems/word-pattern/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/word-pattern/description/'><strong>41) Word Pattern</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -57,4 +59,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/40.Isomorphic%20Strings) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/42.Valid%20Anagram)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/40.Isomorphic%20Strings'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/42.Valid%20Anagram'>следующая задача ➡️</a></h3></div>

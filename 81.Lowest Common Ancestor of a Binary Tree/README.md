@@ -57,8 +57,4 @@ class Solution:
 
 ```
 
-<div align='center'>
-<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/80.Count%20Complete%20Tree%20Nodes'>⬅️ предыдущая задача</a>
-&nbsp;|&nbsp;
-<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>🏠 Все задачи</a>
-</div>
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/80.Count%20Complete%20Tree%20Nodes'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a></h3></div>

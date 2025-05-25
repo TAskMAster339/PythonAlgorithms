@@ -1,4 +1,6 @@
-# [**8) Best Time to Buy and Sell Stock II**](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/'><strong>8) Best Time to Buy and Sell Stock II</strong></a></h1>
+</div>
 
 Идея: нужно как-то динамически это посчитать
 
@@ -40,4 +42,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/7.Best%20Time%20to%20Buy%20and%20Sell%20Stock) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/9.Jump%20Game)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/7.Best%20Time%20to%20Buy%20and%20Sell%20Stock'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/9.Jump%20Game'>следующая задача ➡️</a></h3></div>

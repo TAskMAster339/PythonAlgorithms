@@ -1,4 +1,6 @@
-# [**30) Minimum Size Subarray Sum**](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/minimum-size-subarray-sum/description/'><strong>30) Minimum Size Subarray Sum</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -58,4 +60,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/29.3Sum) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/31.Longest%20Substring%20Without%20Repeating%20Characters)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/29.3Sum'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/31.Longest%20Substring%20Without%20Repeating%20Characters'>следующая задача ➡️</a></h3></div>

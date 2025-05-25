@@ -1,4 +1,6 @@
-# [**6) Rotate Array**](https://leetcode.com/problems/rotate-array/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/rotate-array/description/'><strong>6) Rotate Array</strong></a></h1>
+</div>
 
 Идея: использовать инверсию.
 
@@ -36,4 +38,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/5.Majority%20Element) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/7.Best%20Time%20to%20Buy%20and%20Sell%20Stock)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/5.Majority%20Element'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/7.Best%20Time%20to%20Buy%20and%20Sell%20Stock'>следующая задача ➡️</a></h3></div>

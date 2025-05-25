@@ -1,4 +1,6 @@
-# [**22) Zigzag Conversion**](https://leetcode.com/problems/zigzag-conversion/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/zigzag-conversion/description/'><strong>22) Zigzag Conversion</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -60,4 +62,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/21.Reverse%20Words%20in%20a%20String) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/23.Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/21.Reverse%20Words%20in%20a%20String'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/23.Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String'>следующая задача ➡️</a></h3></div>

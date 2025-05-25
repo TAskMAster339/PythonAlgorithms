@@ -1,4 +1,6 @@
-# [**77) Sum Root to Leaf Numbers**](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/sum-root-to-leaf-numbers/description/'><strong>77) Sum Root to Leaf Numbers</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -45,4 +47,4 @@ class Solution:
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/76.Path%20Sum) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/78.Binary%20Tree%20Maximum%20Path%20Sum)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/76.Path%20Sum'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/78.Binary%20Tree%20Maximum%20Path%20Sum'>следующая задача ➡️</a></h3></div>

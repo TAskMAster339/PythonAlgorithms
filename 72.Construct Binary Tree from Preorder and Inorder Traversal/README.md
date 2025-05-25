@@ -1,4 +1,6 @@
-# [**72) Construct Binary Tree from Preorder and Inorder Traversal**](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/'><strong>72) Construct Binary Tree from Preorder and Inorder Traversal</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -94,4 +96,4 @@ class Solution:
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/71.Symmetric%20Tree) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/73.Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/71.Symmetric%20Tree'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/73.Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal'>следующая задача ➡️</a></h3></div>

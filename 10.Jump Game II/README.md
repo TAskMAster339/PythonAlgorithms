@@ -1,4 +1,6 @@
-# [**10) Jump Game II**](https://leetcode.com/problems/jump-game-ii/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/jump-game-ii/description/'><strong>10) Jump Game II</strong></a></h1>
+</div>
 
 Идея: очевидно, что нужно как-то динамически рассчитывать самый дальний прыжок из клетки, где мы стоим.
 
@@ -72,4 +74,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/9.Jump%20Game) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/11.H-Index)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/9.Jump%20Game'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/11.H-Index'>следующая задача ➡️</a></h3></div>

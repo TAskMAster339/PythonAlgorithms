@@ -1,4 +1,6 @@
-# [**18) Integer to Roman**](https://leetcode.com/problems/integer-to-roman/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/integer-to-roman/description/'><strong>18) Integer to Roman</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -77,4 +79,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/17.Roman%20to%20Integer) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/19.Length%20of%20Last%20Word)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/17.Roman%20to%20Integer'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/19.Length%20of%20Last%20Word'>следующая задача ➡️</a></h3></div>

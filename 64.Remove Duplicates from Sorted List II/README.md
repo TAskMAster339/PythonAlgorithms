@@ -1,4 +1,6 @@
-# [**64) Remove Duplicates from Sorted List II**](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/'><strong>64) Remove Duplicates from Sorted List II</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -73,4 +75,4 @@ class Solution:
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/63.Remove%20Nth%20Node%20From%20End%20of%20List) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/65.Rotate%20List)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/63.Remove%20Nth%20Node%20From%20End%20of%20List'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/65.Rotate%20List'>следующая задача ➡️</a></h3></div>

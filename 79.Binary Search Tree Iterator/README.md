@@ -1,4 +1,6 @@
-# [**79) Binary Search Tree Iterator**](https://leetcode.com/problems/binary-search-tree-iterator/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/binary-search-tree-iterator/description/'><strong>79) Binary Search Tree Iterator</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -56,4 +58,4 @@ class BSTIterator:
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/78.Binary%20Tree%20Maximum%20Path%20Sum) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/80.Count%20Complete%20Tree%20Nodes)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/78.Binary%20Tree%20Maximum%20Path%20Sum'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/80.Count%20Complete%20Tree%20Nodes'>следующая задача ➡️</a></h3></div>

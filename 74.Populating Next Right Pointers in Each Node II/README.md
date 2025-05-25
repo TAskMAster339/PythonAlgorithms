@@ -1,4 +1,6 @@
-# [**74) Populating Next Right Pointers in Each Node II**](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/'><strong>74) Populating Next Right Pointers in Each Node II</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -81,4 +83,4 @@ class Solution:
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/73.Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/75.Flatten%20Binary%20Tree%20to%20Linked%20List)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/73.Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/75.Flatten%20Binary%20Tree%20to%20Linked%20List'>следующая задача ➡️</a></h3></div>

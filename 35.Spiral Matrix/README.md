@@ -1,4 +1,6 @@
-# [**35) Spiral Matrix**](https://leetcode.com/problems/spiral-matrix/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/spiral-matrix/description/'><strong>35) Spiral Matrix</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -67,4 +69,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/34.Valid%20Sudoku) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/36.Rotate%20Image)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/34.Valid%20Sudoku'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/36.Rotate%20Image'>следующая задача ➡️</a></h3></div>

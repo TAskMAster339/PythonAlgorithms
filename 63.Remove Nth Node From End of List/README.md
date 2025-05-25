@@ -1,4 +1,6 @@
-# [**63) Remove Nth Node From End of List**](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/'><strong>63) Remove Nth Node From End of List</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -61,4 +63,4 @@ class Solution:
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/62.Reverse%20Nodes%20in%20k-Group) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/64.Remove%20Duplicates%20from%20Sorted%20List%20II)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/62.Reverse%20Nodes%20in%20k-Group'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/64.Remove%20Duplicates%20from%20Sorted%20List%20II'>следующая задача ➡️</a></h3></div>

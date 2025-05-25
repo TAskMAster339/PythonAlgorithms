@@ -1,4 +1,6 @@
-# [**57) Linked List Cycle**](https://leetcode.com/problems/linked-list-cycle/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/linked-list-cycle/description/'><strong>57) Linked List Cycle</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -66,4 +68,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/56.Basic%20Calculator) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/58.Add%20Two%20Numbers)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/56.Basic%20Calculator'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/58.Add%20Two%20Numbers'>следующая задача ➡️</a></h3></div>

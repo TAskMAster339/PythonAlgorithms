@@ -1,4 +1,6 @@
-# [**7) Best Time to Buy and Sell Stock**](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/'><strong>7) Best Time to Buy and Sell Stock</strong></a></h1>
+</div>
 
 Идея: ищем динамически минимум, параллельно сравнивая его с "максимумом"
 
@@ -35,4 +37,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/6.Rotate%20Array) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/8.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/6.Rotate%20Array'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/8.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II'>следующая задача ➡️</a></h3></div>

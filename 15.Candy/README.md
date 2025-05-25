@@ -1,4 +1,6 @@
-# [**15) Candy**](https://leetcode.com/problems/candy/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/candy/description/'><strong>15) Candy</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -55,4 +57,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/14.Gas%20Station) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/16.Trapping%20Rain%20Water)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/14.Gas%20Station'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/16.Trapping%20Rain%20Water'>следующая задача ➡️</a></h3></div>

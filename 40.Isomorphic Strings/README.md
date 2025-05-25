@@ -1,4 +1,6 @@
-# [**40) Isomorphic Strings**](https://leetcode.com/problems/isomorphic-strings/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/isomorphic-strings/description/'><strong>40) Isomorphic Strings</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -59,4 +61,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/39.Ransom%20Note) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/41.Word%20Pattern)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/39.Ransom%20Note'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/41.Word%20Pattern'>следующая задача ➡️</a></h3></div>

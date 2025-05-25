@@ -1,4 +1,6 @@
-# [**71) Symmetric Tree**](https://leetcode.com/problems/symmetric-tree/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/symmetric-tree/description/'><strong>71) Symmetric Tree</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -60,4 +62,4 @@ class Solution:
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/70.Invert%20Binary%20Tree) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/72.Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/70.Invert%20Binary%20Tree'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/72.Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal'>следующая задача ➡️</a></h3></div>

@@ -1,4 +1,6 @@
-# [**53) Simplify Path**](https://leetcode.com/problems/simplify-path/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/simplify-path/description/'><strong>53) Simplify Path</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -73,4 +75,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/52.Valid%20Parentheses) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/54.Min%20Stack)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/52.Valid%20Parentheses'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/54.Min%20Stack'>следующая задача ➡️</a></h3></div>

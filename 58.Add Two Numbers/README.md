@@ -1,4 +1,6 @@
-# [**58) Add Two Numbers**](https://leetcode.com/problems/add-two-numbers/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/add-two-numbers/description/'><strong>58) Add Two Numbers</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -82,4 +84,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/57.Linked%20List%20Cycle) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/59.Merge%20Two%20Sorted%20Lists)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/57.Linked%20List%20Cycle'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/59.Merge%20Two%20Sorted%20Lists'>следующая задача ➡️</a></h3></div>

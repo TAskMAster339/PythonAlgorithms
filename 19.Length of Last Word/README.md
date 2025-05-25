@@ -1,4 +1,6 @@
-# [**19) Length of Last Word**](https://leetcode.com/problems/length-of-last-word/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/length-of-last-word/description/'><strong>19) Length of Last Word</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -43,4 +45,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/18.Integer%20to%20Roman) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/20.Longest%20Common%20Prefix)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/18.Integer%20to%20Roman'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/20.Longest%20Common%20Prefix'>следующая задача ➡️</a></h3></div>

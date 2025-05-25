@@ -1,4 +1,6 @@
-# [**11) H-Index**](https://leetcode.com/problems/h-index/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/h-index/description/'><strong>11) H-Index</strong></a></h1>
+</div>
 
 Идея: посчитать все **h**-индексы и вернуть наибольший из них.
 
@@ -50,4 +52,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/10.Jump%20Game%20II) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/12.Insert%20Delete%20GetRandom%20O(1))
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/10.Jump%20Game%20II'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/12.Insert%20Delete%20GetRandom%20O(1)'>следующая задача ➡️</a></h3></div>

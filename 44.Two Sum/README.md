@@ -1,4 +1,6 @@
-# [**44) Two Sum**](https://leetcode.com/problems/two-sum/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/two-sum/description/'><strong>44) Two Sum</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -46,4 +48,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/43.Group%20Anagrams) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/45.Happy%20Number)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/43.Group%20Anagrams'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/45.Happy%20Number'>следующая задача ➡️</a></h3></div>

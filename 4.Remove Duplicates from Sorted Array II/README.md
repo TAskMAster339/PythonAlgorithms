@@ -1,4 +1,6 @@
-# [**4) Remove Duplicates from Sorted Array II**](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/'><strong>4) Remove Duplicates from Sorted Array II</strong></a></h1>
+</div>
 
 Идея: нужно использовать два указателя. Только сложность заключается в логике их изменения
 
@@ -82,4 +84,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/3.Remove%20Duplicates%20from%20Sorted%20Array) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/5.Majority%20Element)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/3.Remove%20Duplicates%20from%20Sorted%20Array'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/5.Majority%20Element'>следующая задача ➡️</a></h3></div>

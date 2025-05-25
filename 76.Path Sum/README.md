@@ -1,4 +1,6 @@
-# [**76) Path Sum**](https://leetcode.com/problems/path-sum/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/path-sum/description/'><strong>76) Path Sum</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -54,4 +56,4 @@ class Solution:
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/75.Flatten%20Binary%20Tree%20to%20Linked%20List) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/77.Sum%20Root%20to%20Leaf%20Numbers)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/75.Flatten%20Binary%20Tree%20to%20Linked%20List'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/77.Sum%20Root%20to%20Leaf%20Numbers'>следующая задача ➡️</a></h3></div>

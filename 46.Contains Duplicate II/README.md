@@ -1,4 +1,6 @@
-# [**46) Contains Duplicate II**](https://leetcode.com/problems/contains-duplicate-ii/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/contains-duplicate-ii/description/'><strong>46) Contains Duplicate II</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -44,4 +46,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/45.Happy%20Number) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/47.Longest%20Consecutive%20Sequence)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/45.Happy%20Number'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/47.Longest%20Consecutive%20Sequence'>следующая задача ➡️</a></h3></div>

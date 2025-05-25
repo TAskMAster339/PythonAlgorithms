@@ -1,4 +1,6 @@
-# [**49) Merge Intervals**](https://leetcode.com/problems/merge-intervals/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/merge-intervals/description/'><strong>49) Merge Intervals</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -68,4 +70,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/48.Summary%20Ranges) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/50.Insert%20Interval)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/48.Summary%20Ranges'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/50.Insert%20Interval'>следующая задача ➡️</a></h3></div>

@@ -1,4 +1,6 @@
-# [**31) Longest Substring Without Repeating Characters**](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/longest-substring-without-repeating-characters/description/'><strong>31) Longest Substring Without Repeating Characters</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -55,4 +57,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/30.Minimum%20Size%20Subarray%20Sum) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/32.Substring%20with%20Concatenation%20of%20All%20Words)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/30.Minimum%20Size%20Subarray%20Sum'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/32.Substring%20with%20Concatenation%20of%20All%20Words'>следующая задача ➡️</a></h3></div>

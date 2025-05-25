@@ -1,4 +1,6 @@
-# [**61) Reverse Linked List II**](https://leetcode.com/problems/reverse-linked-list-ii/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/reverse-linked-list-ii/description/'><strong>61) Reverse Linked List II</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -72,4 +74,4 @@ class Solution:
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/60.Copy%20List%20with%20Random%20Pointer) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/62.Reverse%20Nodes%20in%20k-Group)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/60.Copy%20List%20with%20Random%20Pointer'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/62.Reverse%20Nodes%20in%20k-Group'>следующая задача ➡️</a></h3></div>

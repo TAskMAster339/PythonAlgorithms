@@ -1,4 +1,6 @@
-# [**2) Remove Element**](https://leetcode.com/problems/remove-element/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/remove-element/description/'><strong>2) Remove Element</strong></a></h1>
+</div>
 
 Рофл: кринж а не задача, один раз пробегаем по массиву, копируя элементы не равные **val** в начало.
 
@@ -24,4 +26,4 @@ class Solution:
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/1.Merge%20Sorted%20Array) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/3.Remove%20Duplicates%20from%20Sorted%20Array)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/1.Merge%20Sorted%20Array'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/3.Remove%20Duplicates%20from%20Sorted%20Array'>следующая задача ➡️</a></h3></div>

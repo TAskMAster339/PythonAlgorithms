@@ -1,4 +1,6 @@
-# [**34) Valid Sudoku**](https://leetcode.com/problems/valid-sudoku/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/valid-sudoku/description/'><strong>34) Valid Sudoku</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -199,4 +201,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/33.Minimum%20Window%20Substring) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/35.Spiral%20Matrix)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/33.Minimum%20Window%20Substring'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/35.Spiral%20Matrix'>следующая задача ➡️</a></h3></div>

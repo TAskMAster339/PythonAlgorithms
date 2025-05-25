@@ -103,19 +103,19 @@ def get_link_to_next_and_prev_questions(dir_path: Path) -> str:
     all_questions = f"<a href='{GITHUB_PATH + 'README.md'}'>Все задачи</a>"
     if not prev_question:
         string = (
-            f"<div align='center'>{all_questions}\n"
-            f"&nbsp;|&nbsp;\n{next_question}\n</div>"
+            f"<div align='center'><h3>{all_questions}"
+            f"&nbsp;|&nbsp;{next_question}</h3></div>"
         )
     elif not next_question:
         string = (
-            f"<div align='center'>\n{prev_question}\n"
-            f"&nbsp;|&nbsp;\n{all_questions}\n</div>"
+            f"<div align='center'><h3>{prev_question}"
+            f"&nbsp;|&nbsp;{all_questions}</h3></div>"
         )
     else:
         string = (
-            f"<div align='center'>\n{prev_question}\n"
-            f"&nbsp;|&nbsp;{all_questions}\n"
-            f"&nbsp;|&nbsp;\n{next_question}\n</div>"
+            f"<div align='center'><h3>{prev_question}"
+            f"&nbsp;|&nbsp;{all_questions}"
+            f"&nbsp;|&nbsp;{next_question}</h3></div>"
         )
     if string:
         return string

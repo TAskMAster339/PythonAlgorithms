@@ -1,4 +1,6 @@
-# [**14) Gas Station**](https://leetcode.com/problems/gas-station/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/gas-station/description/'><strong>14) Gas Station</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -74,4 +76,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/13.Product%20of%20Array%20Except%20Self) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/15.Candy)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/13.Product%20of%20Array%20Except%20Self'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/15.Candy'>следующая задача ➡️</a></h3></div>

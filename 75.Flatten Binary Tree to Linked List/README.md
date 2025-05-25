@@ -1,4 +1,6 @@
-# [**75) Flatten Binary Tree to Linked List**](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/'><strong>75) Flatten Binary Tree to Linked List</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -60,4 +62,4 @@ class Solution:
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/74.Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/76.Path%20Sum)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/74.Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/76.Path%20Sum'>следующая задача ➡️</a></h3></div>

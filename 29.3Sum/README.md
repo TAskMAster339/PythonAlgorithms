@@ -1,4 +1,6 @@
-# [**29) 3Sum**](https://leetcode.com/problems/3sum/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/3sum/description/'><strong>29) 3Sum</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -67,4 +69,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/28.Container%20With%20Most%20Water) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/30.Minimum%20Size%20Subarray%20Sum)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/28.Container%20With%20Most%20Water'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/30.Minimum%20Size%20Subarray%20Sum'>следующая задача ➡️</a></h3></div>

@@ -1,4 +1,6 @@
-# [**20) Longest Common Prefix**](https://leetcode.com/problems/longest-common-prefix/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/longest-common-prefix/description/'><strong>20) Longest Common Prefix</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -45,4 +47,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/19.Length%20of%20Last%20Word) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/21.Reverse%20Words%20in%20a%20String)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/19.Length%20of%20Last%20Word'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/21.Reverse%20Words%20in%20a%20String'>следующая задача ➡️</a></h3></div>

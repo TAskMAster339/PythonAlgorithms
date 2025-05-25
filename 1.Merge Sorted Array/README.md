@@ -1,4 +1,6 @@
-# [**1) Merge Sorted Array**](https://leetcode.com/problems/merge-sorted-array/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/merge-sorted-array/description/'><strong>1) Merge Sorted Array</strong></a></h1>
+</div>
 
 Идея: идем по списку **1** с конца, каждый раз записывая наибольший из элементов списков **1** и **2**.
 
@@ -35,4 +37,4 @@ if __name__ == "__main__":
 
 ```
 
-### [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/2.Remove%20Element)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/2.Remove%20Element'>следующая задача ➡️</a></h3></div>

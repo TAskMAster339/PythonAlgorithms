@@ -1,4 +1,6 @@
-# [**27) Two Sum II - Input Array Is Sorted**](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/'><strong>27) Two Sum II - Input Array Is Sorted</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -51,4 +53,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/26.Is%20Subsequence) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/28.Container%20With%20Most%20Water)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/26.Is%20Subsequence'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/28.Container%20With%20Most%20Water'>следующая задача ➡️</a></h3></div>

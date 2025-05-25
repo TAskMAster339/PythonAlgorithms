@@ -1,4 +1,6 @@
-# [**39) Ransom Note**](https://leetcode.com/problems/ransom-note/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/ransom-note/description/'><strong>39) Ransom Note</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -60,4 +62,4 @@ if __name__ == "__main__":
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/38.Game%20of%20Life) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/40.Isomorphic%20Strings)
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/38.Game%20of%20Life'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/40.Isomorphic%20Strings'>следующая задача ➡️</a></h3></div>
