@@ -74,3 +74,4 @@ if __name__ == "__main__":
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/13.Product%20of%20Array%20Except%20Self) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/15.Candy)

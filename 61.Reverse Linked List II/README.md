@@ -72,3 +72,4 @@ class Solution:
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/60.Copy%20List%20with%20Random%20Pointer) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/62.Reverse%20Nodes%20in%20k-Group)

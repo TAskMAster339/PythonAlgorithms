@@ -71,3 +71,4 @@ class Solution:
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/59.Merge%20Two%20Sorted%20Lists) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/61.Reverse%20Linked%20List%20II)

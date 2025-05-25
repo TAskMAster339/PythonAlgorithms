@@ -32,3 +32,4 @@ if __name__ == "__main__":
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/22.Zigzag%20Conversion) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/24.Text%20Justification)

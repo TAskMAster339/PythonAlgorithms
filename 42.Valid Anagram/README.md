@@ -65,3 +65,4 @@ if __name__ == "__main__":
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/41.Word%20Pattern) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/43.Group%20Anagrams)

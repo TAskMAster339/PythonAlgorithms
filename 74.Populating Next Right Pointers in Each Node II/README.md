@@ -81,3 +81,4 @@ class Solution:
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/73.Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/75.Flatten%20Binary%20Tree%20to%20Linked%20List)

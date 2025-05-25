@@ -57,3 +57,4 @@ if __name__ == "__main__":
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/40.Isomorphic%20Strings) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/42.Valid%20Anagram)

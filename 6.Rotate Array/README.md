@@ -36,3 +36,4 @@ if __name__ == "__main__":
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/5.Majority%20Element) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/7.Best%20Time%20to%20Buy%20and%20Sell%20Stock)

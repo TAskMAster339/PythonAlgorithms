@@ -73,3 +73,4 @@ if __name__ == "__main__":
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/52.Valid%20Parentheses) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/54.Min%20Stack)

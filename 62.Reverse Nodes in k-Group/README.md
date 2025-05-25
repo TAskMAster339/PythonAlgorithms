@@ -56,3 +56,4 @@ class Solution:
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/61.Reverse%20Linked%20List%20II) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/63.Remove%20Nth%20Node%20From%20End%20of%20List)

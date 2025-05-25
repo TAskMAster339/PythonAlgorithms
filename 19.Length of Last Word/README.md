@@ -43,3 +43,4 @@ if __name__ == "__main__":
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/18.Integer%20to%20Roman) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/20.Longest%20Common%20Prefix)

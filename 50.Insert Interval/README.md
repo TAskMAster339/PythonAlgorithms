@@ -79,3 +79,4 @@ if __name__ == "__main__":
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/49.Merge%20Intervals) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/51.Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons)

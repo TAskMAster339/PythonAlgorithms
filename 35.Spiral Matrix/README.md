@@ -67,3 +67,4 @@ if __name__ == "__main__":
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/34.Valid%20Sudoku) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/36.Rotate%20Image)

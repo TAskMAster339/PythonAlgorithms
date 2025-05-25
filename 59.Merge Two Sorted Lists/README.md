@@ -67,3 +67,4 @@ if __name__ == "__main__":
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/58.Add%20Two%20Numbers) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/60.Copy%20List%20with%20Random%20Pointer)

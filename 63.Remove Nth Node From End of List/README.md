@@ -61,3 +61,4 @@ class Solution:
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/62.Reverse%20Nodes%20in%20k-Group) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/64.Remove%20Duplicates%20from%20Sorted%20List%20II)

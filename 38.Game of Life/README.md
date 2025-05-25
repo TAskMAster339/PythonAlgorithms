@@ -89,3 +89,4 @@ if __name__ == "__main__":
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/37.Set%20Matrix%20Zeroes) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/39.Ransom%20Note)

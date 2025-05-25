@@ -103,3 +103,4 @@ if __name__ == "__main__":
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/15.Candy) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/17.Roman%20to%20Integer)

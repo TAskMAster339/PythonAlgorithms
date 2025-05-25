@@ -60,3 +60,4 @@ if __name__ == "__main__":
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/38.Game%20of%20Life) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/40.Isomorphic%20Strings)

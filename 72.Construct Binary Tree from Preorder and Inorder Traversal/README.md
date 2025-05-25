@@ -94,3 +94,4 @@ class Solution:
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/71.Symmetric%20Tree) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/73.Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal)

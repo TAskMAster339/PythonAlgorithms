@@ -72,3 +72,4 @@ if __name__ == "__main__":
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/9.Jump%20Game) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/11.H-Index)

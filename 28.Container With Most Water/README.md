@@ -51,3 +51,4 @@ if __name__ == "__main__":
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/27.Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/29.3Sum)

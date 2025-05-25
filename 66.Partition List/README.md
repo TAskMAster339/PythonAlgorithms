@@ -57,3 +57,4 @@ class Solution:
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/65.Rotate%20List) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/67.LRU%20Cache)

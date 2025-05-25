@@ -62,3 +62,4 @@ if __name__ == "__main__":
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/51.Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/53.Simplify%20Path)

@@ -55,3 +55,4 @@ class Solution:
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/80.Count%20Complete%20Tree%20Nodes)

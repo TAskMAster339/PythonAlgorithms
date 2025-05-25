@@ -55,3 +55,4 @@ if __name__ == "__main__":
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/14.Gas%20Station) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/16.Trapping%20Rain%20Water)

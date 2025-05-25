@@ -60,3 +60,4 @@ class Solution:
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/74.Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/76.Path%20Sum)

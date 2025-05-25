@@ -108,3 +108,4 @@ if __name__ == "__main__":
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/55.Evaluate%20Reverse%20Polish%20Notation) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/57.Linked%20List%20Cycle)

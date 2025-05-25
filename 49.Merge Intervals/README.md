@@ -68,3 +68,4 @@ if __name__ == "__main__":
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/48.Summary%20Ranges) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/50.Insert%20Interval)

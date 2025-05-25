@@ -96,3 +96,4 @@ if __name__ == "__main__":
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/66.Partition%20List) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/68.Maximum%20Depth%20of%20Binary%20Tree)

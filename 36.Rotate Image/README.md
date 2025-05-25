@@ -56,3 +56,4 @@ if __name__ == "__main__":
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/35.Spiral%20Matrix) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/37.Set%20Matrix%20Zeroes)

@@ -50,3 +50,4 @@ if __name__ == "__main__":
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/10.Jump%20Game%20II) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/12.Insert%20Delete%20GetRandom%20O(1))

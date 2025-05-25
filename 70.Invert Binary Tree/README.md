@@ -46,3 +46,4 @@ class Solution:
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/69.Same%20Tree) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/71.Symmetric%20Tree)

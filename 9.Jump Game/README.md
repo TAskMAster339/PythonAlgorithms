@@ -47,3 +47,4 @@ if __name__ == "__main__":
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/8.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/10.Jump%20Game%20II)

@@ -58,3 +58,4 @@ if __name__ == "__main__":
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/29.3Sum) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/31.Longest%20Substring%20Without%20Repeating%20Characters)

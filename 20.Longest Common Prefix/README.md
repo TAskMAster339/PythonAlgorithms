@@ -45,3 +45,4 @@ if __name__ == "__main__":
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/19.Length%20of%20Last%20Word) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/21.Reverse%20Words%20in%20a%20String)

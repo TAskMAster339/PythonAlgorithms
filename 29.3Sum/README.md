@@ -67,3 +67,4 @@ if __name__ == "__main__":
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/28.Container%20With%20Most%20Water) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/30.Minimum%20Size%20Subarray%20Sum)

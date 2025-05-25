@@ -60,3 +60,4 @@ if __name__ == "__main__":
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/21.Reverse%20Words%20in%20a%20String) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/23.Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String)

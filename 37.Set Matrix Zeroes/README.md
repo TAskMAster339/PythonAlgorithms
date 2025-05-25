@@ -60,3 +60,4 @@ if __name__ == "__main__":
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/36.Rotate%20Image) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/38.Game%20of%20Life)

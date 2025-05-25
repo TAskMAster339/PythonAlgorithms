@@ -28,3 +28,4 @@ class Solution:
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/2.Remove%20Element) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/4.Remove%20Duplicates%20from%20Sorted%20Array%20II)

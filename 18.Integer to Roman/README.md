@@ -77,3 +77,4 @@ if __name__ == "__main__":
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/17.Roman%20to%20Integer) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/19.Length%20of%20Last%20Word)

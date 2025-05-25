@@ -72,3 +72,4 @@ class Solution:
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/64.Remove%20Duplicates%20from%20Sorted%20List%20II) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/66.Partition%20List)

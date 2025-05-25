@@ -82,3 +82,4 @@ if __name__ == "__main__":
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/57.Linked%20List%20Cycle) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/59.Merge%20Two%20Sorted%20Lists)

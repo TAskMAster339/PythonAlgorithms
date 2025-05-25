@@ -67,3 +67,4 @@ class Solution:
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/79.Binary%20Search%20Tree%20Iterator) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/81.Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree)

@@ -44,3 +44,4 @@ if __name__ == "__main__":
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/45.Happy%20Number) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/47.Longest%20Consecutive%20Sequence)

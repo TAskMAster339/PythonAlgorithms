@@ -64,3 +64,4 @@ if __name__ == "__main__":
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/47.Longest%20Consecutive%20Sequence) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/49.Merge%20Intervals)

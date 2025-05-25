@@ -199,3 +199,4 @@ if __name__ == "__main__":
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/33.Minimum%20Window%20Substring) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/35.Spiral%20Matrix)

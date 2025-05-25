@@ -51,3 +51,4 @@ if __name__ == "__main__":
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/26.Is%20Subsequence) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/28.Container%20With%20Most%20Water)

@@ -87,3 +87,4 @@ if __name__ == "__main__":
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/50.Insert%20Interval) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/52.Valid%20Parentheses)

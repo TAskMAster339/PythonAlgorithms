@@ -24,3 +24,4 @@ class Solution:
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/1.Merge%20Sorted%20Array) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/3.Remove%20Duplicates%20from%20Sorted%20Array)

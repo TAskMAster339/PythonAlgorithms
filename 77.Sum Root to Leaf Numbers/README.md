@@ -45,3 +45,4 @@ class Solution:
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/76.Path%20Sum) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/78.Binary%20Tree%20Maximum%20Path%20Sum)

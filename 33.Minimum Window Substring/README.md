@@ -79,3 +79,4 @@ if __name__ == "__main__":
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/32.Substring%20with%20Concatenation%20of%20All%20Words) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/34.Valid%20Sudoku)

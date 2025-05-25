@@ -59,3 +59,4 @@ if __name__ == "__main__":
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/39.Ransom%20Note) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/41.Word%20Pattern)

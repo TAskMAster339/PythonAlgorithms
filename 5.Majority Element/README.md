@@ -34,3 +34,4 @@ if __name__ == "__main__":
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/4.Remove%20Duplicates%20from%20Sorted%20Array%20II) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/6.Rotate%20Array)

@@ -52,3 +52,4 @@ class Solution:
 
 ```
 
+### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/68.Maximum%20Depth%20of%20Binary%20Tree) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/70.Invert%20Binary%20Tree)
