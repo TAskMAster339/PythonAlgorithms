@@ -165,3 +165,5 @@
 
 79. [Binary Search Tree Iterator](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/79.Binary%20Search%20Tree%20Iterator)
 
+80. [Count Complete Tree Nodes](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/80.Count%20Complete%20Tree%20Nodes)
+
