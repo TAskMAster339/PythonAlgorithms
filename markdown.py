@@ -38,6 +38,9 @@ def bold_english_words(string: str) -> str:
 
 
 def wrap_with(string: str, wrapper: str) -> str:
+    if wrapper.startswith("<") and wrapper.endswith(">"):
+        wrapper = wrapper.strip("<").strip(">")
+        return f"<{wrapper}>{string}</{wrapper}>"
     return wrapper + string + wrapper
 
 
@@ -60,7 +63,10 @@ def format_file_for_git(file_lines: list[str], code_lines: list[str]) -> None:
         if file_lines[i].strip("*") in BLOCK_WORDS:
             file_lines[i] = f"## {file_lines[i]}"
     link = file_lines.pop(1)
-    file_lines[0] = f"# [{file_lines[0]}]({link})"
+    file_lines[0] = (
+        f"<div align='center'>\n<h1><a href='{link}'>"
+        f"<strong>{file_lines[0].replace('*', '')}</strong></a></h1>\n</div>"
+    )
 
     # add code
     try:
@@ -86,20 +92,31 @@ def get_link_to_next_and_prev_questions(dir_path: Path) -> str:
             num, name = path.name.split(".")
             if int(number) + 1 == int(num):
                 next_question = (
-                    f"[следующая задача -->]"
-                    f"({GITHUB_PATH + path.name.replace(' ', '%20')})\n"
+                    f"<a href='{GITHUB_PATH + path.name.replace(' ', '%20')}'>"
+                    f"следующая задача ➡️</a>"
                 )
             if int(number) - 1 == int(num):
                 prev_question = (
-                    f"### [<-- предыдущая задача]"
-                    f"({GITHUB_PATH + path.name.replace(' ', '%20')})"
+                    f"<a href='{GITHUB_PATH + path.name.replace(' ', '%20')}'>"
+                    f"⬅️ предыдущая задача</a>"
                 )
+    all_questions = f"<a href='{GITHUB_PATH + 'README.md'}'>Все задачи</a>"
     if not prev_question:
-        string = "### " + next_question
+        string = (
+            f"<div align='center'>{all_questions}\n"
+            f"&nbsp;|&nbsp;\n{next_question}\n</div>"
+        )
     elif not next_question:
-        string = prev_question
+        string = (
+            f"<div align='center'>\n{prev_question}\n"
+            f"&nbsp;|&nbsp;\n{all_questions}\n</div>"
+        )
     else:
-        string = prev_question + " | " + next_question
+        string = (
+            f"<div align='center'>\n{prev_question}\n"
+            f"&nbsp;|&nbsp;{all_questions}\n"
+            f"&nbsp;|&nbsp;\n{next_question}\n</div>"
+        )
     if string:
         return string
     return ""
@@ -182,7 +199,6 @@ if __name__ == "__main__":
                 encoding="UTF-8",
             ) as file:
                 file_lines = file.readlines()
-
             with Path.open(
                 prev_dir_path / "README.md",
                 "w",
@@ -192,7 +208,7 @@ if __name__ == "__main__":
                     file_lines[-1] = get_link_to_next_and_prev_questions(
                         prev_dir_path,
                     )
-                    file.writelines(file_lines)
+                file.writelines(file_lines)
 
             print(f"Updated README.md in {prev_dir_path}")
         except FileNotFoundError as e:

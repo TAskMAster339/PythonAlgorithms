@@ -1,4 +1,6 @@
-# [**80) Count Complete Tree Nodes**](https://leetcode.com/problems/count-complete-tree-nodes/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/count-complete-tree-nodes/description/'><strong>80) Count Complete Tree Nodes</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -67,4 +69,9 @@ class Solution:
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/79.Binary%20Search%20Tree%20Iterator) | [следующая задача -->](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/81.Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree)
+<div align='center'>
+<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/79.Binary%20Search%20Tree%20Iterator'>⬅️ предыдущая задача</a>
+&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>
+&nbsp;|&nbsp;
+<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/81.Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree'>следующая задача ➡️</a>
+</div>

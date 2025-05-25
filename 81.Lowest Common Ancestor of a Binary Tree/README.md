@@ -1,4 +1,6 @@
-# [**81) Lowest Common Ancestor of a Binary Tree**](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)
+<div align='center'>
+<h1><a href='https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/'><strong>81) Lowest Common Ancestor of a Binary Tree</strong></a></h1>
+</div>
 
 ## **Условие:**
 
@@ -55,4 +57,8 @@ class Solution:
 
 ```
 
-### [<-- предыдущая задача](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/80.Count%20Complete%20Tree%20Nodes)
+<div align='center'>
+<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/80.Count%20Complete%20Tree%20Nodes'>⬅️ предыдущая задача</a>
+&nbsp;|&nbsp;
+<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>🏠 Все задачи</a>
+</div>
