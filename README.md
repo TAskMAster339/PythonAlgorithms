@@ -3,7 +3,7 @@
 >[!TIP]
 >Вот [тут](https://t.me/TAskMAster3399) я поясняю за решение
 
-Прогресс: [██████████████████████░░░░░░░░░░░░░░░░░░]  56%
+Прогресс: [██████████████████████░░░░░░░░░░░░░░░░░░]  57%
 
 ## Список задач:
 
@@ -174,4 +174,6 @@
 83. [Average of Levels in Binary Tree](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/83.Average%20of%20Levels%20in%20Binary%20Tree)
 
 84. [Binary Tree Level Order Traversal](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/84.Binary%20Tree%20Level%20Order%20Traversal)
+
+85. [Binary Tree Zigzag Level Order Traversal](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/85.Binary%20Tree%20Zigzag%20Level%20Order%20Traversal)
 

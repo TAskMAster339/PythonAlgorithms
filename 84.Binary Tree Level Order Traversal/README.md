@@ -44,7 +44,7 @@ class Solution:
             for _ in range(len(queue)):
                 node = queue.pop(0)
                 if node:
-                    level.append(node)
+                    level.append(node.val)
                     if node.left:
                         queue.append(node.left)
                     if node.right:
@@ -55,4 +55,4 @@ class Solution:
 
 ```
 
-<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/83.Average%20of%20Levels%20in%20Binary%20Tree'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a></h3></div>
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/83.Average%20of%20Levels%20in%20Binary%20Tree'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/85.Binary%20Tree%20Zigzag%20Level%20Order%20Traversal'>следующая задача ➡️</a></h3></div>
