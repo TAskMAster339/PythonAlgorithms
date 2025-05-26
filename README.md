@@ -3,7 +3,7 @@
 >[!TIP]
 >Вот [тут](https://t.me/TAskMAster3399) я поясняю за решение
 
-Прогресс: [█████████████████████░░░░░░░░░░░░░░░░░░░]  55%
+Прогресс: [██████████████████████░░░░░░░░░░░░░░░░░░]  55%
 
 ## Список задач:
 
@@ -170,4 +170,6 @@
 81. [Lowest Common Ancestor of a Binary Tree](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/81.Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree)
 
 82. [Binary Tree Right Side View](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/82.Binary%20Tree%20Right%20Side%20View)
+
+83. [Average of Levels in Binary Tree](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/83.Average%20of%20Levels%20in%20Binary%20Tree)
 

@@ -22,7 +22,7 @@
 
 ## **Оценка:**
 
-Верхняя граница по времени у **BFS** будет **O**(**N**), где **N** - количество узлов в дереве. По памяти мы затратим **O**(**N**), так как в наихудшем случае нам потребуется сохранить все **N** узлов.
+Верхняя граница по времени у **BFS** будет **O**(**N**), где **N** - количество узлов в дереве. По памяти мы затратим **O**(**M**), так как в наихудшем случае нам потребуется сохранить **M** = **2**^(**logN**-**1**) узлов.
 
 ## Код:
 ```python
@@ -57,4 +57,4 @@ class Solution:
 
 ```
 
-<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/81.Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a></h3></div>
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/81.Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/83.Average%20of%20Levels%20in%20Binary%20Tree'>следующая задача ➡️</a></h3></div>
