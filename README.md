@@ -3,7 +3,7 @@
 >[!TIP]
 >Вот [тут](https://t.me/TAskMAster3399) я поясняю за решение
 
-Прогресс: [███████████████████████░░░░░░░░░░░░░░░░░]  58%
+Прогресс: [███████████████████████░░░░░░░░░░░░░░░░░]  59%
 
 ## Список задач:
 
@@ -180,4 +180,6 @@
 86. [Minimum Absolute Difference in BST](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/86.Minimum%20Absolute%20Difference%20in%20BST)
 
 87. [Kth Smallest Element in a BST](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/87.Kth%20Smallest%20Element%20in%20a%20BST)
+
+88. [Validate Binary Search Tree](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/88.Validate%20Binary%20Search%20Tree)
 
