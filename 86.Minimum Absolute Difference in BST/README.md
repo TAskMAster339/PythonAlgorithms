@@ -57,4 +57,4 @@ class Solution:
 
 ```
 
-<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/85.Binary%20Tree%20Zigzag%20Level%20Order%20Traversal'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a></h3></div>
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/85.Binary%20Tree%20Zigzag%20Level%20Order%20Traversal'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/87.Kth%20Smallest%20Element%20in%20a%20BST'>следующая задача ➡️</a></h3></div>
