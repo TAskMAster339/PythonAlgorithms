@@ -177,3 +177,5 @@
 
 85. [Binary Tree Zigzag Level Order Traversal](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/85.Binary%20Tree%20Zigzag%20Level%20Order%20Traversal)
 
+86. [Minimum Absolute Difference in BST](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/86.Minimum%20Absolute%20Difference%20in%20BST)
+
