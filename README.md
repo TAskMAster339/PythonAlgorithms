@@ -183,3 +183,5 @@
 
 88. [Validate Binary Search Tree](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/88.Validate%20Binary%20Search%20Tree)
 
+89. [Number of Islands](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/89.Number%20of%20Islands)
+
