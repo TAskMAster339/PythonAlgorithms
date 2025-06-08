@@ -3,7 +3,7 @@
 >[!TIP]
 >Вот [тут](https://t.me/TAskMAster3399) я поясняю за решение
 
-Прогресс: [███████████████████████░░░░░░░░░░░░░░░░░]  59%
+Прогресс: [████████████████████████░░░░░░░░░░░░░░░░]  60%
 
 ## Список задач:
 
@@ -184,4 +184,6 @@
 88. [Validate Binary Search Tree](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/88.Validate%20Binary%20Search%20Tree)
 
 89. [Number of Islands](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/89.Number%20of%20Islands)
+
+90. [Surrounded Regions](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/90.Surrounded%20Regions)
 

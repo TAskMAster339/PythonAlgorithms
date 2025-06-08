@@ -8,7 +8,7 @@ class Solution:
             queue = [(x, y)]
 
             while queue:
-                point_x, point_y = queue.pop()
+                point_x, point_y = queue.pop(0)
                 if (point_x, point_y) in visited:
                     continue
                 visited.add((point_x, point_y))
