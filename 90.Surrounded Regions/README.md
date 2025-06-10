@@ -90,4 +90,4 @@ if __name__ == "__main__":
 
 ```
 
-<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/89.Number%20of%20Islands'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a></h3></div>
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/89.Number%20of%20Islands'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/91.Clone%20Graph'>следующая задача ➡️</a></h3></div>
