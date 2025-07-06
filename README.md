@@ -3,7 +3,7 @@
 >[!TIP]
 >Вот [тут](https://t.me/TAskMAster3399) я поясняю за решение
 
-Прогресс: [████████████████████████░░░░░░░░░░░░░░░░]  62%
+Прогресс: [█████████████████████████░░░░░░░░░░░░░░░]  63%
 
 ## Список задач:
 
@@ -192,4 +192,6 @@
 92. [Evaluate Division](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/92.Evaluate%20Division)
 
 93. [Course Schedule](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/93.Course%20Schedule)
+
+94. [Course Schedule II](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/94.Course%20Schedule%20II)
 
