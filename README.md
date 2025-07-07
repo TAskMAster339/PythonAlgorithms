@@ -195,3 +195,5 @@
 
 94. [Course Schedule II](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/94.Course%20Schedule%20II)
 
+95. [Snakes and Ladders](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/95.Snakes%20and%20Ladders)
+
