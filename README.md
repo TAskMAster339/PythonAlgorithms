@@ -3,7 +3,7 @@
 >[!TIP]
 >Вот [тут](https://t.me/TAskMAster3399) я поясняю за решение
 
-Прогресс: [█████████████████████████░░░░░░░░░░░░░░░]  63%
+Прогресс: [█████████████████████████░░░░░░░░░░░░░░░]  64%
 
 ## Список задач:
 
@@ -196,4 +196,6 @@
 94. [Course Schedule II](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/94.Course%20Schedule%20II)
 
 95. [Snakes and Ladders](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/95.Snakes%20and%20Ladders)
+
+96. [Minimum Genetic Mutation](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/96.Minimum%20Genetic%20Mutation)
 
