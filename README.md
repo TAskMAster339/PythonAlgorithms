@@ -3,7 +3,7 @@
 >[!TIP]
 >Вот [тут](https://t.me/TAskMAster3399) я поясняю за решение
 
-Прогресс: [█████████████████████████░░░░░░░░░░░░░░░]  64%
+Прогресс: [█████████████████████████░░░░░░░░░░░░░░░]  65%
 
 ## Список задач:
 
@@ -198,4 +198,6 @@
 95. [Snakes and Ladders](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/95.Snakes%20and%20Ladders)
 
 96. [Minimum Genetic Mutation](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/96.Minimum%20Genetic%20Mutation)
+
+97. [Word Ladder](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/97.Word%20Ladder)
 
