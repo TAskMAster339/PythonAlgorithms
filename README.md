@@ -3,7 +3,7 @@
 >[!TIP]
 >Вот [тут](https://t.me/TAskMAster3399) я поясняю за решение
 
-Прогресс: [██████████████████████████░░░░░░░░░░░░░░]  65%
+Прогресс: [██████████████████████████░░░░░░░░░░░░░░]  66%
 
 ## Список задач:
 
@@ -202,4 +202,6 @@
 97. [Word Ladder](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/97.Word%20Ladder)
 
 98. [Implement Trie (Prefix Tree)](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/98.Implement%20Trie%20(Prefix%20Tree))
+
+99. [Design Add and Search Words Data Structure](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/99.Design%20Add%20and%20Search%20Words%20Data%20Structure)
 
