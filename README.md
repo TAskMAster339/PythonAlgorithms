@@ -3,7 +3,7 @@
 >[!TIP]
 >Вот [тут](https://t.me/TAskMAster3399) я поясняю за решение
 
-Прогресс: [███████████████████████████░░░░░░░░░░░░░]  68%
+Прогресс: [███████████████████████████░░░░░░░░░░░░░]  69%
 
 ## Список задач:
 
@@ -210,4 +210,6 @@
 101. [Letter Combinations of a Phone Number](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/101.Letter%20Combinations%20of%20a%20Phone%20Number)
 
 102. [Combinations](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/102.Combinations)
+
+103. [Permutations](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/103.Permutations)
 
