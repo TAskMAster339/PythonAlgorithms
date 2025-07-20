@@ -3,7 +3,7 @@
 >[!TIP]
 >Вот [тут](https://t.me/TAskMAster3399) я поясняю за решение
 
-Прогресс: [███████████████████████████░░░░░░░░░░░░░]  69%
+Прогресс: [████████████████████████████░░░░░░░░░░░░]  70%
 
 ## Список задач:
 
@@ -214,4 +214,6 @@
 103. [Permutations](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/103.Permutations)
 
 104. [Combination Sum](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/104.Combination%20Sum)
+
+105. [N-Queens II](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/105.N-Queens%20II)
 
