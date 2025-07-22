@@ -219,3 +219,5 @@
 
 106. [Generate Parentheses](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/106.Generate%20Parentheses)
 
+107. [Word Search](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/107.Word%20Search)
+
