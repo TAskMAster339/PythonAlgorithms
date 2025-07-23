@@ -3,7 +3,7 @@
 >[!TIP]
 >Вот [тут](https://t.me/TAskMAster3399) я поясняю за решение
 
-Прогресс: [████████████████████████████░░░░░░░░░░░░]  71%
+Прогресс: [████████████████████████████░░░░░░░░░░░░]  72%
 
 ## Список задач:
 
@@ -220,4 +220,6 @@
 106. [Generate Parentheses](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/106.Generate%20Parentheses)
 
 107. [Word Search](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/107.Word%20Search)
+
+108. [Convert Sorted Array to Binary Search Tree](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/108.Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree)
 
