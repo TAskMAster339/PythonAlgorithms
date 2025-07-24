@@ -59,4 +59,4 @@ class Solution:
 
 ```
 
-<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/107.Word%20Search'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a></h3></div>
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/107.Word%20Search'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/109.Sort%20List'>следующая задача ➡️</a></h3></div>

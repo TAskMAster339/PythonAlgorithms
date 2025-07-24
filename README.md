@@ -3,7 +3,7 @@
 >[!TIP]
 >Вот [тут](https://t.me/TAskMAster3399) я поясняю за решение
 
-Прогресс: [████████████████████████████░░░░░░░░░░░░]  72%
+Прогресс: [█████████████████████████████░░░░░░░░░░░]  73%
 
 ## Список задач:
 
@@ -222,4 +222,6 @@
 107. [Word Search](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/107.Word%20Search)
 
 108. [Convert Sorted Array to Binary Search Tree](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/108.Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree)
+
+109. [Sort List](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/109.Sort%20List)
 
