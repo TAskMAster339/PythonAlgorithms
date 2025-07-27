@@ -75,4 +75,4 @@ class Solution:
 
 ```
 
-<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/110.Construct%20Quad%20Tree'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a></h3></div>
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/110.Construct%20Quad%20Tree'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/112.Maximum%20Subarray'>следующая задача ➡️</a></h3></div>
