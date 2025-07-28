@@ -3,7 +3,7 @@
 >[!TIP]
 >Вот [тут](https://t.me/TAskMAster3399) я поясняю за решение
 
-Прогресс: [█████████████████████████████░░░░░░░░░░░]  75%
+Прогресс: [██████████████████████████████░░░░░░░░░░]  75%
 
 ## Список задач:
 
@@ -230,4 +230,6 @@
 111. [Merge k Sorted Lists](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/111.Merge%20k%20Sorted%20Lists)
 
 112. [Maximum Subarray](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/112.Maximum%20Subarray)
+
+113. [Maximum Sum Circular Subarray](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/113.Maximum%20Sum%20Circular%20Subarray)
 
