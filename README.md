@@ -3,7 +3,7 @@
 >[!TIP]
 >Вот [тут](https://t.me/TAskMAster3399) я поясняю за решение
 
-Прогресс: [██████████████████████████████░░░░░░░░░░]  75%
+Прогресс: [██████████████████████████████░░░░░░░░░░]  76%
 
 ## Список задач:
 
@@ -232,4 +232,6 @@
 112. [Maximum Subarray](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/112.Maximum%20Subarray)
 
 113. [Maximum Sum Circular Subarray](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/113.Maximum%20Sum%20Circular%20Subarray)
+
+114. [Search Insert Position](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/114.Search%20Insert%20Position)
 
