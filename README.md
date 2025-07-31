@@ -237,3 +237,5 @@
 
 115. [Search a 2D Matrix](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/115.Search%20a%202D%20Matrix)
 
+116. [Find Peak Element](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/116.Find%20Peak%20Element)
+
