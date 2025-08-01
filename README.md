@@ -3,7 +3,7 @@
 >[!TIP]
 >Вот [тут](https://t.me/TAskMAster3399) я поясняю за решение
 
-Прогресс: [██████████████████████████████░░░░░░░░░░]  77%
+Прогресс: [███████████████████████████████░░░░░░░░░]  78%
 
 ## Список задач:
 
@@ -238,4 +238,6 @@
 115. [Search a 2D Matrix](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/115.Search%20a%202D%20Matrix)
 
 116. [Find Peak Element](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/116.Find%20Peak%20Element)
+
+117. [Search in Rotated Sorted Array](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/117.Search%20in%20Rotated%20Sorted%20Array)
 
