@@ -3,7 +3,7 @@
 >[!TIP]
 >Вот [тут](https://t.me/TAskMAster3399) я поясняю за решение
 
-Прогресс: [████████████████████████████████░░░░░░░░]  82%
+Прогресс: [█████████████████████████████████░░░░░░░]  83%
 
 ## Список задач:
 
@@ -252,4 +252,6 @@
 122. [IPO](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/122.IPO)
 
 123. [Find K Pairs with Smallest Sums](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/123.Find%20K%20Pairs%20with%20Smallest%20Sums)
+
+124. [Find Median from Data Stream](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/124.Find%20Median%20from%20Data%20Stream)
 
