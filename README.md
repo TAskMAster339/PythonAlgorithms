@@ -255,3 +255,5 @@
 
 124. [Find Median from Data Stream](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/124.Find%20Median%20from%20Data%20Stream)
 
+125. [Add Binary](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/125.Add%20Binary)
+
