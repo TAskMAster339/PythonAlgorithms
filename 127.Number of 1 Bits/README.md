@@ -43,4 +43,4 @@ if __name__ == "__main__":
 
 ```
 
-<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/126.Reverse%20Bits'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a></h3></div>
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/126.Reverse%20Bits'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/128.Single%20Number'>следующая задача ➡️</a></h3></div>
