@@ -3,7 +3,7 @@
 >[!TIP]
 >Вот [тут](https://t.me/TAskMAster3399) я поясняю за решение
 
-Прогресс: [█████████████████████████████████░░░░░░░]  84%
+Прогресс: [█████████████████████████████████░░░░░░░]  85%
 
 ## Список задач:
 
@@ -258,4 +258,6 @@
 125. [Add Binary](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/125.Add%20Binary)
 
 126. [Reverse Bits](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/126.Reverse%20Bits)
+
+127. [Number of 1 Bits](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/127.Number%20of%201%20Bits)
 
