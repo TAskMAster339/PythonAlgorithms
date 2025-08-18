@@ -3,7 +3,7 @@
 >[!TIP]
 >Вот [тут](https://t.me/TAskMAster3399) я поясняю за решение
 
-Прогресс: [██████████████████████████████████░░░░░░]  86%
+Прогресс: [██████████████████████████████████░░░░░░]  87%
 
 ## Список задач:
 
@@ -264,4 +264,6 @@
 128. [Single Number](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/128.Single%20Number)
 
 129. [Single Number II](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/129.Single%20Number%20II)
+
+130. [Bitwise AND of Numbers Range](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/130.Bitwise%20AND%20of%20Numbers%20Range)
 
