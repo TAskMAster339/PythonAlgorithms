@@ -3,7 +3,7 @@
 >[!TIP]
 >Вот [тут](https://t.me/TAskMAster3399) я поясняю за решение
 
-Прогресс: [███████████████████████████████████░░░░░]  88%
+Прогресс: [███████████████████████████████████░░░░░]  89%
 
 ## Список задач:
 
@@ -270,4 +270,6 @@
 131. [Palindrome Number](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/131.Palindrome%20Number)
 
 132. [Plus One](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/132.Plus%20One)
+
+133. [Factorial Trailing Zeroes](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/133.Factorial%20Trailing%20Zeroes)
 
