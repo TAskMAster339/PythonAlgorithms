@@ -273,3 +273,5 @@
 
 133. [Factorial Trailing Zeroes](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/133.Factorial%20Trailing%20Zeroes)
 
+134. [Sqrt(x)](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/134.Sqrt(x))
+
