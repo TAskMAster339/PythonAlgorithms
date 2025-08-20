@@ -3,7 +3,7 @@
 >[!TIP]
 >Вот [тут](https://t.me/TAskMAster3399) я поясняю за решение
 
-Прогресс: [███████████████████████████████████░░░░░]  89%
+Прогресс: [████████████████████████████████████░░░░]  90%
 
 ## Список задач:
 
@@ -274,4 +274,6 @@
 133. [Factorial Trailing Zeroes](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/133.Factorial%20Trailing%20Zeroes)
 
 134. [Sqrt(x)](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/134.Sqrt(x))
+
+135. [Pow(x, n)](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/135.Pow(x,%20n))
 
