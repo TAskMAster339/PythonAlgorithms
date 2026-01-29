@@ -3,7 +3,7 @@
 >[!TIP]
 >Вот [тут](https://t.me/TAskMAster3399) я поясняю за решение
 
-Прогресс: [████████████████████████████████████░░░░]  92%
+Прогресс: [█████████████████████████████████████░░░]  93%
 
 ## Список задач:
 
@@ -282,4 +282,6 @@
 137. [Climbing Stairs](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/137.Climbing%20Stairs)
 
 138. [House Robber](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/138.House%20Robber)
+
+139. [Word Break](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/139.Word%20Break)
 
