@@ -3,7 +3,7 @@
 >[!TIP]
 >Вот [тут](https://t.me/TAskMAster3399) я поясняю за решение
 
-Прогресс: [████████████████████████████████████░░░░]  91%
+Прогресс: [████████████████████████████████████░░░░]  92%
 
 ## Список задач:
 
@@ -280,4 +280,6 @@
 136. [Max Points on a Line](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/136.Max%20Points%20on%20a%20Line)
 
 137. [Climbing Stairs](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/137.Climbing%20Stairs)
+
+138. [House Robber](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/138.House%20Robber)
 
