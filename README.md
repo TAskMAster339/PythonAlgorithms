@@ -3,7 +3,7 @@
 >[!TIP]
 >Вот [тут](https://t.me/TAskMAster3399) я поясняю за решение
 
-Прогресс: [████████████████████████████████████░░░░]  90%
+Прогресс: [████████████████████████████████████░░░░]  91%
 
 ## Список задач:
 
@@ -276,4 +276,6 @@
 134. [Sqrt(x)](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/134.Sqrt(x))
 
 135. [Pow(x, n)](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/135.Pow(x,%20n))
+
+136. [Max Points on a Line](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/136.Max%20Points%20on%20a%20Line)
 
