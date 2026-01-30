@@ -3,7 +3,7 @@
 >[!TIP]
 >Вот [тут](https://t.me/TAskMAster3399) я поясняю за решение
 
-Прогресс: [█████████████████████████████████████░░░]  94%
+Прогресс: [█████████████████████████████████████░░░]  95%
 
 ## Список задач:
 
@@ -288,4 +288,6 @@
 140. [Coin Change](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/140.Coin%20Change)
 
 141. [Longest Increasing Subsequence](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/141.Longest%20Increasing%20Subsequence)
+
+142. [Triangle](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/142.Triangle)
 
