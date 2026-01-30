@@ -3,7 +3,7 @@
 >[!TIP]
 >Вот [тут](https://t.me/TAskMAster3399) я поясняю за решение
 
-Прогресс: [█████████████████████████████████████░░░]  93%
+Прогресс: [█████████████████████████████████████░░░]  94%
 
 ## Список задач:
 
@@ -286,4 +286,6 @@
 139. [Word Break](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/139.Word%20Break)
 
 140. [Coin Change](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/140.Coin%20Change)
+
+141. [Longest Increasing Subsequence](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/141.Longest%20Increasing%20Subsequence)
 
