@@ -59,4 +59,4 @@ if __name__ == "__main__":
 
 ```
 
-<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/142.Triangle'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a></h3></div>
+<div align='center'><h3><a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/142.Triangle'>⬅️ предыдущая задача</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/README.md'>Все задачи</a>&nbsp;|&nbsp;<a href='https://github.com/TAskMAster339/PythonAlgorithms/tree/main/144.Unique%20Paths%20II'>следующая задача ➡️</a></h3></div>

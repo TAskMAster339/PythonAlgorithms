@@ -3,7 +3,7 @@
 >[!TIP]
 >Вот [тут](https://t.me/TAskMAster3399) я поясняю за решение
 
-Прогресс: [██████████████████████████████████████░░]  95%
+Прогресс: [██████████████████████████████████████░░]  96%
 
 ## Список задач:
 
@@ -292,4 +292,6 @@
 142. [Triangle](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/142.Triangle)
 
 143. [Minimum Path Sum](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/143.Minimum%20Path%20Sum)
+
+144. [Unique Paths II](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/144.Unique%20Paths%20II)
 
