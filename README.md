@@ -3,7 +3,7 @@
 >[!TIP]
 >Вот [тут](https://t.me/TAskMAster3399) я поясняю за решение
 
-Прогресс: [██████████████████████████████████████░░]  96%
+Прогресс: [██████████████████████████████████████░░]  97%
 
 ## Список задач:
 
@@ -294,4 +294,6 @@
 143. [Minimum Path Sum](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/143.Minimum%20Path%20Sum)
 
 144. [Unique Paths II](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/144.Unique%20Paths%20II)
+
+145. [Longest Palindromic Substring](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/145.Longest%20Palindromic%20Substring)
 
