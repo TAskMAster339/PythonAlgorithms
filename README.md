@@ -297,3 +297,5 @@
 
 145. [Longest Palindromic Substring](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/145.Longest%20Palindromic%20Substring)
 
+146. [Interleaving String](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/146.Interleaving%20String)
+
