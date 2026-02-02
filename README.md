@@ -3,7 +3,7 @@
 >[!TIP]
 >Вот [тут](https://t.me/TAskMAster3399) я поясняю за решение
 
-Прогресс: [██████████████████████████████████████░░]  97%
+Прогресс: [███████████████████████████████████████░]  98%
 
 ## Список задач:
 
@@ -298,4 +298,6 @@
 145. [Longest Palindromic Substring](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/145.Longest%20Palindromic%20Substring)
 
 146. [Interleaving String](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/146.Interleaving%20String)
+
+147. [Edit Distance](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/147.Edit%20Distance)
 
