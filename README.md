@@ -3,7 +3,7 @@
 >[!TIP]
 >Вот [тут](https://t.me/TAskMAster3399) я поясняю за решение
 
-Прогресс: [███████████████████████████████████████░]  99%
+Прогресс: [████████████████████████████████████████] 100%
 
 ## Список задач:
 
@@ -304,4 +304,6 @@
 148. [Best Time to Buy and Sell Stock III](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/148.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III)
 
 149. [Best Time to Buy and Sell Stock IV](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/149.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV)
+
+150. [Maximal Square](https://github.com/TAskMAster339/PythonAlgorithms/tree/main/150.Maximal%20Square)
 
